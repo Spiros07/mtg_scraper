@@ -29,6 +29,10 @@ for card in mtg_table:
     print(card_name)
     card_img_url = card.find_element_by_xpath('.//img').get_attribute('src')
     print(card_img_url)
+    card_conv_mana_cost = card.find_element_by_xpath('.//*[contains(@class, "convertedManaCost")]').text
+    print(card_conv_mana_cost)
+    card_type = card.find_element_by_xpath('.//*[contains(@class, "typeLine")]').text
+    print(card_type)
 
 driver.quit()
 
