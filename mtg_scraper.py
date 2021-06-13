@@ -1,3 +1,5 @@
+
+#%%
 from selenium import webdriver
 from selenium.webdriver import ChromeOptions
 from selenium.common.exceptions import NoSuchElementException
@@ -18,12 +20,18 @@ mtg_cards = []
 #print([mtg_card_name])
 
 mtg_table = driver.find_elements_by_xpath('//*[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_searchResultsContainer"]/div/table/tbody/tr/td/table')
-print(mtg_table)
+print(len(mtg_table))
 
-# for card in mtg_table:
-#     card_name = card.find_element_by_xpath('//*[contains(@id, "cardTitle")]').text
-#     print(card_name)
+
+
+for card in mtg_table:
+    card_name = card.find_element_by_xpath('.//*[contains(@id, "cardTitle")]').text
+    print(card_name)
 #     card_img_url = card.find_element_by_xpath('//img')
 #     print(card_img_url)
 
-# driver.quit()
+driver.quit()
+
+# %%
+#//*[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_searchResultsContainer"]/div/table/tbody/tr/td
+#//*[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_listRepeater_ctl00_cardTitle"]
