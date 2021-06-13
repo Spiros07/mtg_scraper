@@ -27,8 +27,8 @@ print(len(mtg_table))
 for card in mtg_table:
     card_name = card.find_element_by_xpath('.//*[contains(@id, "cardTitle")]').text
     print(card_name)
-#     card_img_url = card.find_element_by_xpath('//img')
-#     print(card_img_url)
+    card_img_url = card.find_element_by_xpath('.//img').get_attribute('src')
+    print(card_img_url)
 
 driver.quit()
 
