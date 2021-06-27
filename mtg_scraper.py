@@ -29,7 +29,7 @@ card_sets =[]
 for sets in mtg_sets:
         card_sets.append(sets.text)
 #currently brings only a few sets, for all, [1:]    
-final_card_sets = card_sets[130:131]
+final_card_sets = card_sets[131:132]
 print(final_card_sets)
 
 
@@ -58,18 +58,18 @@ for set in final_card_sets:
 
     # divide total no. of cards by no. of cards in page, round up to get the no. of pages 
 
-    get_no_of_cards = driver.find_element_by_xpath(
+    n_cards = driver.find_element_by_xpath(
         './/*[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContentHeader_searchTermDisplay"]').text
     
     #This find one looks good for targeting text
-    no_of_cards = get_no_of_cards[
-        get_no_of_cards.find('(') + 1: get_no_of_cards.find(')')]
+    no_of_cards = n_cards[
+        n_cards.find('(') + 1: n_cards.find(')')]
     no_of_pages = math.ceil(int(no_of_cards)/len(mtg_table))
     #print(no_of_pages)
     
 
     # loop through the no. of pages      
-    for page in range(0, no_of_pages, 1):
+    for page in range(no_of_pages):
         driver.get(url+'&page='+str(page))
         # table of contents (cards on the page)
         mtg_table = driver.find_elements_by_xpath(
@@ -141,7 +141,7 @@ df_abilities = pd.DataFrame(cards)
 df_abilities.columns = ['card name', 'img url', 
             'edition - rarity', 'mana cost', 'converted mana cost', 
             'type', 'abilities']
-df_abilities.to_csv('scraper_final_130_131.csv')
+df_abilities.to_csv('scraper_final_131_132.csv')
     #print(df)
 
 #get the names to look for cards' prices
@@ -173,7 +173,7 @@ prices = []
 
 for card in cards_names:
 
-    #look for the price of a card
+    #look for the price of every card in the card_names list
 
     init_url = driver.current_url
 
@@ -185,23 +185,27 @@ for card in cards_names:
     search.click()
     new_url = driver.current_url
     
+    #returns the average price
     try:
         avg_price = driver.find_element_by_xpath(
             './/*[contains(@text, "Average")]').text
     except:
-        avg_price = 'null'
+        avg_price = 'None'
     
+    #returns the current market price
     try:
         market_price = driver.find_element_by_xpath(
             './/*[contains(@text, "Market")]').text
     except:
-        market_price = 'null'
+        market_price = 'None'
 
+    #returns the price for the foil card (if there is a foil print
+    # for the specific card)
     try:    
         foil_price = driver.find_element_by_xpath(
             './/*[contains(@text, "Foil")]').text
     except:
-        foil_price = 'null'
+        foil_price = 'None'
 
 
     #for double cards (2 names with //) search does not work 
@@ -220,19 +224,19 @@ for card in cards_names:
         avg_price = driver.find_element_by_xpath(
             './/*[contains(@text, "Average")]').text
     except:
-        avg_price = 'null'
+        avg_price = 'None'
     
     try:
         market_price = driver.find_element_by_xpath(
             './/*[contains(@text, "Market")]').text
     except:
-        market_price = 'null'
+        market_price = 'None'
 
     try:    
         foil_price = driver.find_element_by_xpath(
             './/*[contains(@text, "Foil")]').text
     except:
-        foil_price = 'null'
+        foil_price = 'None'
 
     time.sleep(1)
 
@@ -244,7 +248,7 @@ df_prices = pd.DataFrame(prices, index=[cards_names])
 df_prices.columns = ['average price', 'market price', 'foil price']
 
 
-df_prices.to_csv('prices_130_131.csv')
+df_prices.to_csv('prices_131_132.csv')
         
 #print([cards, prices])
 
@@ -254,6 +258,8 @@ complete_df = pd.merge(left=df_abilities, right=df_prices,
 
 
 # complete csv file including the cards' info plus their prices
-complete_df.to_csv('final_set_130_131.csv')
+complete_df.to_csv('final_set_131_132.csv')
 
 driver.quit()
+
+# %%
