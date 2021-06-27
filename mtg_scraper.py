@@ -144,6 +144,116 @@ df_abilities.columns = ['card name', 'img url',
 df_abilities.to_csv('scraper_final_130_131.csv')
     #print(df)
 
+#get the names to look for cards' prices
+cards_names = df_abilities.loc[:, "card name"]
+#print(cards_names)
 
+
+driver.quit()
+
+
+#use the names from cards_names to find the prices
+
+driver = webdriver.Chrome()
+
+
+      
+driver.get('https://www.mtgstocks.com/prints')
+
+driver.fullscreen_window()
+time.sleep(1)
+
+search = driver.find_element_by_xpath(
+        './/*[@id="navbarSupportedContent"]/form/input')
+time.sleep(1)
+search.submit()
+
+prices = []
+
+
+for card in cards_names:
+
+    #look for the price of a card
+
+    init_url = driver.current_url
+
+    search.send_keys(card)
+    
+    time.sleep(1)
+    
+    search.send_keys(u'\ue007')
+    search.click()
+    new_url = driver.current_url
+    
+    try:
+        avg_price = driver.find_element_by_xpath(
+            './/*[contains(@text, "Average")]').text
+    except:
+        avg_price = 'null'
+    
+    try:
+        market_price = driver.find_element_by_xpath(
+            './/*[contains(@text, "Market")]').text
+    except:
+        market_price = 'null'
+
+    try:    
+        foil_price = driver.find_element_by_xpath(
+            './/*[contains(@text, "Foil")]').text
+    except:
+        foil_price = 'null'
+
+
+    #for double cards (2 names with //) search does not work 
+    # (it does not move to the naxt page) 
+    # so I need to remove // for it to work
+
+    if new_url == init_url:
+        search.submit()
+        search.clear()
+        search.send_keys(card.replace("//", " "))
+        time.sleep(1)
+        search.send_keys(u'\ue007')
+        search.click()
+
+    try:
+        avg_price = driver.find_element_by_xpath(
+            './/*[contains(@text, "Average")]').text
+    except:
+        avg_price = 'null'
+    
+    try:
+        market_price = driver.find_element_by_xpath(
+            './/*[contains(@text, "Market")]').text
+    except:
+        market_price = 'null'
+
+    try:    
+        foil_price = driver.find_element_by_xpath(
+            './/*[contains(@text, "Foil")]').text
+    except:
+        foil_price = 'null'
+
+    time.sleep(1)
+
+
+    prices.append([avg_price, market_price, foil_price]) 
+    
+#create a dataframe with the prices
+df_prices = pd.DataFrame(prices, index=[cards_names])
+df_prices.columns = ['average price', 'market price', 'foil price']
+
+
+df_prices.to_csv('prices_130_131.csv')
+        
+#print([cards, prices])
+
+# use card name as a key column to merge the 2 dataframes
+complete_df = pd.merge(left=df_abilities, right=df_prices, 
+                    how='outer', left_on='card name', right_on='card name')        
+
+
+# complete csv file including the cards' info plus their prices
+complete_df.to_csv('final_set_130_131.csv')
 
 driver.quit()
