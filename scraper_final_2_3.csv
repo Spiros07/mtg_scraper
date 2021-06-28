@@ -1,0 +1,241 @@
+,card name,img url,edition - rarity,mana cost,converted mana cost,type,abilities
+0,Anathemancer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179538&type=card,Alara Reborn (Uncommon),"['1', 'Black', 'Red']",3,Creature — Zombie Wizard (2/2),"When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls.
+Unearth (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+1,Architects of Will,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179597&type=card,Alara Reborn (Common),"['2', 'Blue', 'Black']",4,Artifact Creature — Human Wizard (3/3),"When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.
+Cycling (, Discard this card: Draw a card.)"
+2,Ardent Plea,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185054&type=card,Alara Reborn (Uncommon),"['1', 'White', 'Blue']",3,Enchantment,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+3,Arsenal Thresher,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189652&type=card,Alara Reborn (Common),"['2', 'White or Black', 'Blue']",4,Artifact Creature — Construct (2/2),"As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way."
+4,Aven Mimeomancer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180608&type=card,Alara Reborn (Rare),"['1', 'White', 'Blue']",3,Creature — Bird Wizard (3/1),"Flying
+At the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature has base power and toughness 3/1 and has flying for as long as it has a feather counter on it."
+5,Bant Sojourners,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188963&type=card,Alara Reborn (Common),"['1', 'Green', 'White', 'Blue']",4,Creature — Human Soldier (2/4),"When you cycle Bant Sojourners or it dies, you may create a 1/1 white Soldier creature token.
+Cycling (, Discard this card: Draw a card.)"
+6,Bant Sureblade,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188975&type=card,Alara Reborn (Common),"['Green or Blue', 'White']",2,Creature — Human Soldier (2/1),"As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike."
+7,Behemoth Sledge,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179545&type=card,Alara Reborn (Uncommon),"['1', 'Green', 'White']",3,Artifact — Equipment,"Equipped creature gets +2/+2 and has trample and lifelink.
+Equip"
+8,Bituminous Blast,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185057&type=card,Alara Reborn (Uncommon),"['3', 'Black', 'Red']",5,Instant,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+Bituminous Blast deals 4 damage to target creature."
+9,Blitz Hellion,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179406&type=card,Alara Reborn (Rare),"['3', 'Red', 'Green']",5,Creature — Hellion (7/7),"Trample, haste
+At the beginning of the end step, Blitz Hellion's owner shuffles it into their library."
+10,Bloodbraid Elf,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185053&type=card,Alara Reborn (Uncommon),"['2', 'Red', 'Green']",4,Creature — Elf Berserker (3/2),"Haste
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+11,Brainbite,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179607&type=card,Alara Reborn (Common),"['2', 'Blue', 'Black']",4,Sorcery,"Target opponent reveals their hand. You choose a card from it. That player discards that card.
+Draw a card."
+12,Breath of Malfegor,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=161291&type=card,Alara Reborn (Common),"['3', 'Black', 'Red']",5,Instant,Breath of Malfegor deals 5 damage to each opponent.
+13,Captured Sunlight,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185064&type=card,Alara Reborn (Common),"['2', 'Green', 'White']",4,Sorcery,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+You gain 4 life."
+14,Cerodon Yearling,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180604&type=card,Alara Reborn (Common),"['Red', 'White']",2,Creature — Beast (2/2),"Vigilance, haste"
+15,Cloven Casting,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189653&type=card,Alara Reborn (Rare),"['5', 'Blue', 'Red']",7,Enchantment,"Whenever you cast a multicolored instant or sorcery spell, you may pay . If you do, copy that spell. You may choose new targets for the copy."
+16,Colossal Might,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179624&type=card,Alara Reborn (Common),"['Red', 'Green']",2,Instant,Target creature gets +4/+2 and gains trample until end of turn.
+17,Crystallization,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179621&type=card,Alara Reborn (Common),"['Green or Blue', 'White']",2,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.
+When enchanted creature becomes the target of a spell or ability, exile that creature."
+18,Dauntless Escort,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180614&type=card,Alara Reborn (Rare),"['1', 'Green', 'White']",3,Creature — Rhino Soldier (3/3),Sacrifice Dauntless Escort: Creatures you control gain indestructible until end of turn.
+19,Deadshot Minotaur,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179543&type=card,Alara Reborn (Common),"['3', 'Red', 'Green']",5,Creature — Minotaur (3/4),"When Deadshot Minotaur enters the battlefield, it deals 3 damage to target creature with flying.
+Cycling (, Discard this card: Draw a card.)"
+20,Deathbringer Thoctar,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180622&type=card,Alara Reborn (Rare),"['4', 'Black', 'Red']",6,Creature — Zombie Beast (3/3),"Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.
+Remove a +1/+1 counter from Deathbringer Thoctar: It deals 1 damage to any target."
+21,Defiler of Souls,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189646&type=card,Alara Reborn (Mythic Rare),"['3', 'Black', 'Black', 'Red']",6,Creature — Demon (5/5),"Flying
+At the beginning of each player's upkeep, that player sacrifices a monocolored creature."
+22,Demonic Dread,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185062&type=card,Alara Reborn (Common),"['1', 'Black', 'Red']",3,Sorcery,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+Target creature can't block this turn."
+23,Demonspine Whip,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180311&type=card,Alara Reborn (Uncommon),"['Black', 'Red']",2,Artifact — Equipment,": Equipped creature gets +X/+0 until end of turn.
+Equip"
+24,Deny Reality,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185045&type=card,Alara Reborn (Common),"['3', 'Blue', 'Black']",5,Sorcery,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+Return target permanent to its owner's hand."
+25,Double Negative,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179544&type=card,Alara Reborn (Uncommon),"['Blue', 'Blue', 'Red']",3,Instant,Counter up to two target spells.
+26,Dragon Appeasement,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180616&type=card,Alara Reborn (Uncommon),"['3', 'Black', 'Red', 'Green']",6,Enchantment,"Skip your draw step.
+Whenever you sacrifice a creature, you may draw a card."
+27,Dragon Broodmother,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189648&type=card,Alara Reborn (Mythic Rare),"['2', 'Red', 'Red', 'Red', 'Green']",6,Creature — Dragon (4/4),"Flying
+At the beginning of each upkeep, create a 1/1 red and green Dragon creature token with flying and devour 2. (As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)"
+28,Drastic Revelation,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179587&type=card,Alara Reborn (Uncommon),"['2', 'Blue', 'Black', 'Red']",5,Sorcery,"Discard your hand. Draw seven cards, then discard three cards at random."
+29,Enigma Sphinx,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180597&type=card,Alara Reborn (Rare),"['4', 'White', 'Blue', 'Black']",7,Artifact Creature — Sphinx (5/4),"Flying
+When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+30,Enlisted Wurm,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185047&type=card,Alara Reborn (Uncommon),"['4', 'Green', 'White']",6,Creature — Wurm (5/5),"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+31,Esper Sojourners,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188967&type=card,Alara Reborn (Common),"['White', 'Blue', 'Black']",3,Artifact Creature — Vedalken Wizard (2/3),"When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.
+Cycling (, Discard this card: Draw a card.)"
+32,Esper Stormblade,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188968&type=card,Alara Reborn (Common),"['White or Black', 'Blue']",2,Artifact Creature — Vedalken Wizard (2/1),"As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying."
+33,Ethercaste Knight,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179542&type=card,Alara Reborn (Common),"['White', 'Blue']",2,Artifact Creature — Human Knight (1/3),"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+34,Etherium Abomination,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179573&type=card,Alara Reborn (Common),"['3', 'Blue', 'Black']",5,Artifact Creature — Horror (4/3),Unearth (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+35,Ethersworn Shieldmage,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179578&type=card,Alara Reborn (Common),"['1', 'White', 'Blue']",3,Artifact Creature — Vedalken Wizard (2/2),"Flash
+When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn."
+36,Etherwrought Page,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179618&type=card,Alara Reborn (Uncommon),"['1', 'White', 'Blue', 'Black']",4,Artifact,"At the beginning of your upkeep, choose one —
+• You gain 2 life.
+• Look at the top card of your library. You may put that card into your graveyard.
+• Each opponent loses 1 life."
+37,Fieldmist Borderpost,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183005&type=card,Alara Reborn (Common),"['1', 'White', 'Blue']",3,Artifact,"You may pay and return a basic land you control to its owner's hand rather than pay this spell's mana cost.
+Fieldmist Borderpost enters the battlefield tapped.
+: Add or ."
+38,Fight to the Death,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179562&type=card,Alara Reborn (Rare),"['Red', 'White']",2,Instant,Destroy all blocking creatures and all blocked creatures.
+39,Filigree Angel,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188965&type=card,Alara Reborn (Rare),"['5', 'White', 'White', 'Blue']",8,Artifact Creature — Angel (4/4),"Flying
+When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control."
+40,Finest Hour,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180609&type=card,Alara Reborn (Rare),"['2', 'Green', 'White', 'Blue']",5,Enchantment,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase."
+41,Firewild Borderpost,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188974&type=card,Alara Reborn (Common),"['1', 'Red', 'Green']",3,Artifact,"You may pay and return a basic land you control to its owner's hand rather than pay this spell's mana cost.
+Firewild Borderpost enters the battlefield tapped.
+: Add or ."
+42,Flurry of Wings,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179605&type=card,Alara Reborn (Uncommon),"['Green', 'White', 'Blue']",3,Instant,"Create X 1/1 white Bird Soldier creature tokens with flying, where X is the number of attacking creatures."
+43,Giant Ambush Beetle,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179598&type=card,Alara Reborn (Uncommon),"['3', 'Black or Green', 'Red']",5,Creature — Insect (4/3),"Haste
+When Giant Ambush Beetle enters the battlefield, you may have target creature block it this turn if able."
+44,Glassdust Hulk,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179576&type=card,Alara Reborn (Common),"['3', 'White', 'Blue']",5,Artifact Creature — Golem (3/4),"Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and can't be blocked this turn.
+Cycling (, Discard this card: Draw a card.)"
+45,Glory of Warfare,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179611&type=card,Alara Reborn (Rare),"['2', 'Red', 'White']",4,Enchantment,"As long as it's your turn, creatures you control get +2/+0.
+As long as it's not your turn, creatures you control get +0/+2."
+46,Gloryscale Viashino,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189654&type=card,Alara Reborn (Uncommon),"['1', 'Red', 'Green', 'White']",4,Creature — Viashino Soldier (3/3),"Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn."
+47,Godtracker of Jund,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183994&type=card,Alara Reborn (Common),"['1', 'Red', 'Green']",3,Creature — Elf Shaman (2/2),"Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund."
+48,Gorger Wurm,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179561&type=card,Alara Reborn (Common),"['3', 'Red', 'Green']",5,Creature — Wurm (5/5),"Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)"
+49,Grixis Grimblade,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188976&type=card,Alara Reborn (Common),"['Blue or Red', 'Black']",2,Creature — Zombie Warrior (2/1),"As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy that creature.)"
+50,Grixis Sojourners,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188972&type=card,Alara Reborn (Common),"['1', 'Blue', 'Black', 'Red']",4,Creature — Zombie Ogre (4/3),"When you cycle Grixis Sojourners or it dies, you may exile target card from a graveyard.
+Cycling (, Discard this card: Draw a card.)"
+51,Grizzled Leotau,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189647&type=card,Alara Reborn (Common),"['Green', 'White']",2,Creature — Cat (1/5),
+52,Identity Crisis,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=175109&type=card,Alara Reborn (Rare),"['2', 'White', 'White', 'Black', 'Black']",6,Sorcery,Exile all cards from target player's hand and graveyard.
+53,Igneous Pouncer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=144276&type=card,Alara Reborn (Common),"['4', 'Black', 'Red']",6,Creature — Elemental (5/1),"Haste
+Swampcycling , mountaincycling (, Discard this card: Search your library for a Swamp or Mountain card, reveal it, put it into your hand, then shuffle.)"
+54,Illusory Demon,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179596&type=card,Alara Reborn (Uncommon),"['1', 'Blue', 'Black']",3,Creature — Demon Illusion (4/3),"Flying
+When you cast a spell, sacrifice Illusory Demon."
+55,Intimidation Bolt,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179568&type=card,Alara Reborn (Uncommon),"['1', 'Red', 'White']",3,Instant,Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.
+56,"Jenara, Asura of War",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180605&type=card,Alara Reborn (Mythic Rare),"['Green', 'White', 'Blue']",3,Legendary Creature — Angel (3/3),"Flying
+: Put a +1/+1 counter on Jenara, Asura of War."
+57,Jhessian Zombies,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=144286&type=card,Alara Reborn (Common),"['4', 'Blue', 'Black']",6,Creature — Zombie (2/4),"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Islandcycling , swampcycling (, Discard this card: Search your library for an Island or Swamp card, reveal it, put it into your hand, then shuffle.)"
+58,Jund Hackblade,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188973&type=card,Alara Reborn (Common),"['Black or Green', 'Red']",2,Creature — Goblin Berserker (2/1),"As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste."
+59,Jund Sojourners,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188966&type=card,Alara Reborn (Common),"['Black', 'Red', 'Green']",3,Creature — Viashino Shaman (3/2),"When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to any target.
+Cycling (, Discard this card: Draw a card.)"
+60,"Karrthus, Tyrant of Jund",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180587&type=card,Alara Reborn (Mythic Rare),"['4', 'Black', 'Red', 'Green']",7,Legendary Creature — Dragon (7/7),"Flying, haste
+When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.
+Other Dragon creatures you control have haste."
+61,Kathari Bomber,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179602&type=card,Alara Reborn (Common),"['1', 'Black', 'Red']",3,Creature — Bird Shaman (2/2),"Flying
+When Kathari Bomber deals combat damage to a player, create two 1/1 red Goblin creature tokens and sacrifice Kathari Bomber.
+Unearth (: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+62,Kathari Remnant,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185060&type=card,Alara Reborn (Uncommon),"['2', 'Blue', 'Black']",4,Creature — Bird Skeleton (0/1),"Flying
+: Regenerate Kathari Remnant.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+63,Knight of New Alara,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189642&type=card,Alara Reborn (Rare),"['2', 'Green', 'White']",4,Creature — Human Knight (2/2),Each other multicolored creature you control gets +1/+1 for each of its colors.
+64,Knotvine Paladin,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180624&type=card,Alara Reborn (Rare),"['Green', 'White']",2,Creature — Human Knight (2/2),"Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control."
+65,Lavalanche,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180612&type=card,Alara Reborn (Rare),"['Variable Colorless', 'Black', 'Red', 'Green']",3,Sorcery,Lavalanche deals X damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.
+66,Leonin Armorguard,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180606&type=card,Alara Reborn (Common),"['2', 'Green', 'White']",4,Creature — Cat Soldier (3/3),"When Leonin Armorguard enters the battlefield, creatures you control get +1/+1 until end of turn."
+67,Lich Lord of Unx,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179555&type=card,Alara Reborn (Rare),"['1', 'Blue', 'Black']",3,Creature — Zombie Wizard (2/2),", : Create a 1/1 blue and black Zombie Wizard creature token.
+: Target player loses X life and mills X cards, where X is the number of Zombies you control."
+68,Lightning Reaver,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180617&type=card,Alara Reborn (Rare),"['3', 'Black', 'Red']",5,Creature — Zombie Beast (3/3),"Haste; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Lightning Reaver deals combat damage to a player, put a charge counter on it.
+At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent."
+69,Lord of Extinction,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=177922&type=card,Alara Reborn (Mythic Rare),"['3', 'Black', 'Green']",5,Creature — Elemental (*/*),Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards.
+70,Lorescale Coatl,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179633&type=card,Alara Reborn (Uncommon),"['1', 'Green', 'Blue']",3,Creature — Snake (2/2),"Whenever you draw a card, put a +1/+1 counter on Lorescale Coatl."
+71,Madrush Cyclops,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180625&type=card,Alara Reborn (Rare),"['1', 'Black', 'Red', 'Green']",4,Creature — Cyclops Warrior (3/4),Creatures you control have haste.
+72,Maelstrom Nexus,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179540&type=card,Alara Reborn (Mythic Rare),"['White', 'Blue', 'Black', 'Red', 'Green']",5,Enchantment,"The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+73,Maelstrom Pulse,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180613&type=card,Alara Reborn (Rare),"['1', 'Black', 'Green']",3,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.
+74,Mage Slayer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179567&type=card,Alara Reborn (Uncommon),"['1', 'Red', 'Green']",3,Artifact — Equipment,"Whenever equipped creature attacks, it deals damage equal to its power to the player or planeswalker it's attacking.
+Equip"
+75,Magefire Wings,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179591&type=card,Alara Reborn (Common),"['Blue', 'Red']",2,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+0 and has flying."
+76,Marisi's Twinclaws,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179585&type=card,Alara Reborn (Uncommon),"['2', 'Red or White', 'Green']",4,Creature — Cat Warrior (2/4),Double strike
+77,Marrow Chomper,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183014&type=card,Alara Reborn (Uncommon),"['3', 'Black', 'Green']",5,Creature — Zombie Lizard (3/3),"Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)
+When Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured."
+78,Mask of Riddles,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179584&type=card,Alara Reborn (Uncommon),"['Blue', 'Black']",2,Artifact — Equipment,"Equipped creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Whenever equipped creature deals combat damage to a player, you may draw a card.
+Equip"
+79,Mayael's Aria,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180620&type=card,Alara Reborn (Rare),"['Red', 'Green', 'White']",3,Enchantment,"At the beginning of your upkeep, put a +1/+1 counter on each creature you control if you control a creature with power 5 or greater. Then you gain 10 life if you control a creature with power 10 or greater. Then you win the game if you control a creature with power 20 or greater."
+80,Meddling Mage,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179547&type=card,Alara Reborn (Rare),"['White', 'Blue']",2,Creature — Human Wizard (2/2),"As Meddling Mage enters the battlefield, choose a nonland card name.
+Spells with the chosen name can't be cast."
+81,Messenger Falcons,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189644&type=card,Alara Reborn (Uncommon),"['2', 'Green or Blue', 'White']",4,Creature — Bird (2/2),"Flying
+When Messenger Falcons enters the battlefield, draw a card."
+82,Mind Funeral,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179599&type=card,Alara Reborn (Uncommon),"['1', 'Blue', 'Black']",3,Sorcery,Target opponent reveals cards from the top of their library until four land cards are revealed. That player puts all cards revealed this way into their graveyard.
+83,Mistvein Borderpost,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=161276&type=card,Alara Reborn (Common),"['1', 'Blue', 'Black']",3,Artifact,"You may pay and return a basic land you control to its owner's hand rather than pay this spell's mana cost.
+Mistvein Borderpost enters the battlefield tapped.
+: Add or ."
+84,Monstrous Carabid,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185051&type=card,Alara Reborn (Common),"['3', 'Black', 'Red']",5,Creature — Insect (4/4),"Monstrous Carabid attacks each combat if able.
+Cycling (, Discard this card: Draw a card.)"
+85,Morbid Bloom,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179614&type=card,Alara Reborn (Uncommon),"['4', 'Black', 'Green']",6,Sorcery,"Exile target creature card from a graveyard, then create X 1/1 green Saproling creature tokens, where X is the exiled card's toughness."
+86,Mycoid Shepherd,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179548&type=card,Alara Reborn (Rare),"['1', 'Green', 'Green', 'White']",4,Creature — Fungus (5/4),"Whenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life."
+87,Naya Hushblade,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188969&type=card,Alara Reborn (Common),"['Red or White', 'Green']",2,Creature — Elf Rogue (2/1),"As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)"
+88,Naya Sojourners,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188970&type=card,Alara Reborn (Common),"['2', 'Red', 'Green', 'White']",5,Creature — Elf Shaman (5/3),"When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.
+Cycling (, Discard this card: Draw a card.)"
+89,Necromancer's Covenant,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183011&type=card,Alara Reborn (Rare),"['3', 'White', 'Black', 'Black']",6,Enchantment,"When Necromancer's Covenant enters the battlefield, exile all creature cards from target player's graveyard, then create a 2/2 black Zombie creature token for each card exiled this way.
+Zombies you control have lifelink."
+90,Nemesis of Reason,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188962&type=card,Alara Reborn (Rare),"['3', 'Blue', 'Black']",5,Creature — Leviathan Horror (3/7),"Whenever Nemesis of Reason attacks, defending player mills ten cards."
+91,Nulltread Gargantuan,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179580&type=card,Alara Reborn (Uncommon),"['1', 'Green', 'Blue']",3,Creature — Beast (5/6),"When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library."
+92,Offering to Asha,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183007&type=card,Alara Reborn (Common),"['2', 'White', 'Blue']",4,Instant,Counter target spell unless its controller pays . You gain 4 life.
+93,Pale Recluse,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=144249&type=card,Alara Reborn (Common),"['4', 'Green', 'White']",6,Creature — Spider (4/5),"Reach (This creature can block creatures with flying.)
+Forestcycling , plainscycling (, Discard this card: Search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle.)"
+94,Predatory Advantage,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180602&type=card,Alara Reborn (Rare),"['3', 'Red', 'Green']",5,Enchantment,"At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, create a 2/2 green Lizard creature token."
+95,Putrid Leech,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179612&type=card,Alara Reborn (Common),"['Black', 'Green']",2,Creature — Zombie Leech (2/2),Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate only once each turn.
+96,Qasali Pridemage,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179556&type=card,Alara Reborn (Common),"['Green', 'White']",2,Creature — Cat Wizard (2/2),"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment."
+97,Reborn Hope,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=175256&type=card,Alara Reborn (Uncommon),"['Green', 'White']",2,Sorcery,Return target multicolored card from your graveyard to your hand.
+98,Retaliator Griffin,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147530&type=card,Alara Reborn (Rare),"['1', 'Red', 'Green', 'White']",4,Creature — Griffin (2/2),"Flying
+Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin."
+99,Rhox Brute,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189650&type=card,Alara Reborn (Common),"['2', 'Red', 'Green']",4,Creature — Rhino Warrior (4/4),
+100,Sages of the Anima,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180601&type=card,Alara Reborn (Rare),"['3', 'Green', 'Blue']",5,Creature — Elf Wizard (3/4),"If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order."
+101,Sanctum Plowbeast,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=144282&type=card,Alara Reborn (Common),"['4', 'White', 'Blue']",6,Artifact Creature — Beast (3/6),"Defender
+Plainscycling , islandcycling (, Discard this card: Search your library for a Plains or Island card, reveal it, put it into your hand, then shuffle.)"
+102,Sangrite Backlash,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179553&type=card,Alara Reborn (Common),"['Black or Green', 'Red']",2,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +3/-3."
+103,Sanity Gnawers,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179623&type=card,Alara Reborn (Uncommon),"['1', 'Black', 'Red']",3,Creature — Rat (1/1),"When Sanity Gnawers enters the battlefield, target player discards a card at random."
+104,Sen Triplets,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180607&type=card,Alara Reborn (Mythic Rare),"['2', 'White', 'Blue', 'Black']",5,Legendary Artifact Creature — Human Wizard (3/3),"At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with their hand revealed. You may play lands and cast spells from that player's hand this turn."
+105,Sewn-Eye Drake,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179594&type=card,Alara Reborn (Common),"['2', 'Blue or Red', 'Black']",4,Creature — Zombie Drake (3/1),"Flying, haste"
+106,Shield of the Righteous,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185063&type=card,Alara Reborn (Uncommon),"['White', 'Blue']",2,Artifact — Equipment,"Equipped creature gets +0/+2 and has vigilance.
+Whenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step.
+Equip"
+107,Sigil Captain,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179560&type=card,Alara Reborn (Uncommon),"['1', 'Green', 'White', 'White']",4,Creature — Rhino Soldier (3/3),"Whenever a creature enters the battlefield under your control, if that creature is 1/1, put two +1/+1 counters on it."
+108,Sigil of the Nayan Gods,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179630&type=card,Alara Reborn (Common),"['1', 'Green', 'White']",3,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each creature you control.
+Cycling (, Discard this card: Draw a card.)"
+109,Sigiled Behemoth,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159688&type=card,Alara Reborn (Common),"['4', 'Green', 'White']",6,Creature — Beast (5/4),"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+110,Singe-Mind Ogre,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179574&type=card,Alara Reborn (Common),"['2', 'Black', 'Red']",4,Creature — Ogre Mutant (3/2),"When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from their hand, then loses life equal to that card's mana value."
+111,Skyclaw Thrash,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179569&type=card,Alara Reborn (Uncommon),"['3', 'Blue', 'Red']",5,Artifact Creature — Viashino Warrior (4/4),"Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn."
+112,Slave of Bolas,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=188971&type=card,Alara Reborn (Uncommon),"['3', 'Blue or Red', 'Black']",5,Sorcery,Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+113,Soul Manipulation,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183008&type=card,Alara Reborn (Common),"['1', 'Blue', 'Black']",3,Instant,"Choose one or both —
+• Counter target creature spell.
+• Return target creature card from your graveyard to your hand."
+114,Soulquake,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179409&type=card,Alara Reborn (Rare),"['3', 'Blue', 'Blue', 'Black', 'Black']",7,Sorcery,Return all creatures on the battlefield and all creature cards in graveyards to their owners' hands.
+115,Sovereigns of Lost Alara,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180600&type=card,Alara Reborn (Rare),"['4', 'White', 'Blue']",6,Creature — Spirit (4/5),"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle."
+116,Spellbound Dragon,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180611&type=card,Alara Reborn (Rare),"['3', 'Blue', 'Red']",5,Creature — Dragon (3/5),"Flying
+Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's mana value."
+117,Spellbreaker Behemoth,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179551&type=card,Alara Reborn (Rare),"['1', 'Red', 'Green', 'Green']",4,Creature — Beast (5/5),"This spell can't be countered.
+Creature spells you control with power 5 or greater can't be countered."
+118,Sphinx of the Steel Wind,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189641&type=card,Alara Reborn (Mythic Rare),"['5', 'White', 'Blue', 'Black']",8,Artifact Creature — Sphinx (6/6),"Flying, first strike, vigilance, lifelink, protection from red and from green"
+119,Stormcaller's Boon,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179534&type=card,Alara Reborn (Common),"['2', 'White', 'Blue']",4,Enchantment,"Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of turn.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+120,Stun Sniper,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179589&type=card,Alara Reborn (Uncommon),"['Red', 'White']",2,Creature — Human Archer (1/1),", : Stun Sniper deals 1 damage to target creature. Tap that creature."
+121,Tainted Sigil,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180618&type=card,Alara Reborn (Uncommon),"['1', 'White', 'Black']",3,Artifact,", Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. (Damage causes loss of life.)"
+122,Talon Trooper,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179537&type=card,Alara Reborn (Common),"['1', 'White', 'Blue']",3,Creature — Bird Scout (2/3),Flying
+123,Terminate,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=176449&type=card,Alara Reborn (Common),"['Black', 'Red']",2,Instant,Destroy target creature. It can't be regenerated.
+124,Thopter Foundry,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183017&type=card,Alara Reborn (Uncommon),"['White or Black', 'Blue']",2,Artifact,", Sacrifice a nontoken artifact: Create a 1/1 blue Thopter artifact creature token with flying. You gain 1 life."
+125,Thought Hemorrhage,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180596&type=card,Alara Reborn (Rare),"['2', 'Black', 'Red']",4,Sorcery,"Choose a nonland card name. Target player reveals their hand. Thought Hemorrhage deals 3 damage to that player for each card with the chosen name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles."
+126,Thraximundar,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180595&type=card,Alara Reborn (Mythic Rare),"['4', 'Blue', 'Black', 'Red']",7,Legendary Creature — Zombie Assassin (6/6),"Haste
+Whenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar."
+127,Time Sieve,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189649&type=card,Alara Reborn (Rare),"['Blue', 'Black']",2,Artifact,", Sacrifice five artifacts: Take an extra turn after this one."
+128,Trace of Abundance,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=161292&type=card,Alara Reborn (Common),"['Red or White', 'Green']",2,Enchantment — Aura,"Enchant land
+Enchanted land has shroud. (It can't be the target of spells or abilities.)
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+129,Unbender Tine,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=138217&type=card,Alara Reborn (Uncommon),"['2', 'White', 'Blue']",4,Artifact,: Untap another target permanent.
+130,"Unscythe, Killer of Kings",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189651&type=card,Alara Reborn (Rare),"['Blue', 'Black', 'Black', 'Red']",4,Legendary Artifact — Equipment,"Equipped creature gets +3/+3 and has first strike.
+Whenever a creature dealt damage by equipped creature this turn dies, you may exile that card. If you do, create a 2/2 black Zombie creature token.
+Equip"
+131,"Uril, the Miststalker",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189645&type=card,Alara Reborn (Mythic Rare),"['2', 'Red', 'Green', 'White']",5,Legendary Creature — Beast (5/5),"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Uril, the Miststalker gets +2/+2 for each Aura attached to it."
+132,Valley Rannet,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=144260&type=card,Alara Reborn (Common),"['4', 'Red', 'Green']",6,Creature — Beast (6/3),"Mountaincycling , forestcycling (, Discard this card: Search your library for a Mountain or Forest card, reveal it, put it into your hand, then shuffle.)"
+133,Vectis Dominator,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179592&type=card,Alara Reborn (Common),"['1', 'White', 'Black']",3,Artifact Creature — Human Wizard (0/2),: Tap target creature unless its controller pays 2 life.
+134,Vedalken Ghoul,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183010&type=card,Alara Reborn (Common),"['Blue', 'Black']",2,Creature — Vedalken Zombie (1/1),"Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life."
+135,Vedalken Heretic,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180619&type=card,Alara Reborn (Rare),"['Green', 'Blue']",2,Creature — Vedalken Rogue (1/1),"Whenever Vedalken Heretic deals damage to an opponent, you may draw a card."
+136,Veinfire Borderpost,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189640&type=card,Alara Reborn (Common),"['1', 'Black', 'Red']",3,Artifact,"You may pay and return a basic land you control to its owner's hand rather than pay this spell's mana cost.
+Veinfire Borderpost enters the battlefield tapped.
+: Add or ."
+137,Vengeful Rebirth,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179628&type=card,Alara Reborn (Uncommon),"['4', 'Red', 'Green']",6,Sorcery,"Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's mana value to any target.
+Exile Vengeful Rebirth."
+138,Violent Outburst,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185056&type=card,Alara Reborn (Common),"['1', 'Red', 'Green']",3,Instant,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
+Creatures you control get +1/+0 until end of turn."
+139,Vithian Renegades,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179535&type=card,Alara Reborn (Uncommon),"['1', 'Red', 'Green']",3,Creature — Human Shaman (3/2),"When Vithian Renegades enters the battlefield, destroy target artifact."
+140,Wall of Denial,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179601&type=card,Alara Reborn (Uncommon),"['1', 'White', 'Blue']",3,Creature — Wall (0/8),"Defender, flying
+Shroud (This creature can't be the target of spells or abilities.)"
+141,Wargate,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180592&type=card,Alara Reborn (Rare),"['Variable Colorless', 'Green', 'White', 'Blue']",3,Sorcery,"Search your library for a permanent card with mana value X or less, put it onto the battlefield, then shuffle."
+142,Wildfield Borderpost,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179590&type=card,Alara Reborn (Common),"['1', 'Green', 'White']",3,Artifact,"You may pay and return a basic land you control to its owner's hand rather than pay this spell's mana cost.
+Wildfield Borderpost enters the battlefield tapped.
+: Add or ."
+143,Winged Coatl,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179603&type=card,Alara Reborn (Common),"['1', 'Green', 'Blue']",3,Creature — Snake (1/1),"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+144,Zealous Persecution,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179575&type=card,Alara Reborn (Uncommon),"['White', 'Black']",2,Instant,"Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1."

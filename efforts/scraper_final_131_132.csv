@@ -1,0 +1,510 @@
+,card name,img url,edition - rarity,mana cost,converted mana cost,type,abilities
+0,Adder-Staff Boggart,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145992&type=card,Lorwyn (Common),"['1', 'Red']",2,Creature — Goblin Warrior (2/1),"When Adder-Staff Boggart enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+1,Æthersnipe (Aethersnipe),https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145817&type=card,Lorwyn (Common),"['5', 'Blue']",6,Creature — Elemental (4/4),"When Aethersnipe enters the battlefield, return target nonland permanent to its owner's hand.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+2,Ajani Goldmane,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140233&type=card,Lorwyn (Rare),"['2', 'White', 'White']",4,Legendary Planeswalker — Ajani (4),"+1: You gain 2 life.
+−1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+−6: Create a white Avatar creature token. It has ""This creature's power and toughness are each equal to your life total."""
+3,Amoeboid Changeling,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140339&type=card,Lorwyn (Common),"['1', 'Blue']",2,Creature — Shapeshifter (1/1),"Changeling (This card is every creature type.)
+: Target creature gains all creature types until end of turn.
+: Target creature loses all creature types until end of turn."
+4,Ancient Amphitheater,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=153454&type=card,Lorwyn (Rare),"['1', 'Blue']",0,Land,"As Ancient Amphitheater enters the battlefield, you may reveal a Giant card from your hand. If you don't, Ancient Amphitheater enters the battlefield tapped.
+: Add or ."
+5,Aquitect's Will,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142354&type=card,Lorwyn (Common),['Blue'],1,Tribal Sorcery — Merfolk,"Put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it. If you control a Merfolk, draw a card."
+6,Arbiter of Knollridge,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140189&type=card,Lorwyn (Rare),"['6', 'White']",7,Creature — Giant Wizard (5/5),"Vigilance
+When Arbiter of Knollridge enters the battlefield, each player's life total becomes the highest life total among all players."
+7,Ashling the Pilgrim,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141822&type=card,Lorwyn (Rare),"['1', 'Red']",2,Legendary Creature — Elemental Shaman (1/1),": Put a +1/+1 counter on Ashling the Pilgrim. If this is the third time this ability has resolved this turn, remove all +1/+1 counters from Ashling the Pilgrim, and it deals that much damage to each creature and each player."
+8,Ashling's Prerogative,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146595&type=card,Lorwyn (Rare),"['1', 'Red']",2,Enchantment,"As Ashling's Prerogative enters the battlefield, choose odd or even. (Zero is even.)
+Each creature with mana value of the chosen quality has haste.
+Each creature without mana value of the chosen quality enters the battlefield tapped."
+9,Auntie's Hovel,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=153457&type=card,Lorwyn (Rare),"['1', 'Red']",0,Land,"As Auntie's Hovel enters the battlefield, you may reveal a Goblin card from your hand. If you don't, Auntie's Hovel enters the battlefield tapped.
+: Add or ."
+10,Austere Command,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141817&type=card,Lorwyn (Rare),"['4', 'White', 'White']",6,Sorcery,"Choose two —
+• Destroy all artifacts.
+• Destroy all enchantments.
+• Destroy all creatures with mana value 3 or less.
+• Destroy all creatures with mana value 4 or greater."
+11,Avian Changeling,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145813&type=card,Lorwyn (Common),"['2', 'White']",3,Creature — Shapeshifter (2/2),"Changeling (This card is every creature type.)
+Flying"
+12,Axegrinder Giant,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145976&type=card,Lorwyn (Common),"['4', 'Red', 'Red']",6,Creature — Giant Warrior (6/4),
+13,Battle Mastery,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145973&type=card,Lorwyn (Uncommon),"['2', 'White']",3,Enchantment — Aura,"Enchant creature
+Enchanted creature has double strike. (It deals both first-strike and regular combat damage.)"
+14,Battlewand Oak,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141857&type=card,Lorwyn (Common),"['2', 'Green']",3,Creature — Treefolk Warrior (1/3),"Whenever a Forest enters the battlefield under your control, Battlewand Oak gets +2/+2 until end of turn.
+Whenever you cast a Treefolk spell, Battlewand Oak gets +2/+2 until end of turn."
+15,Benthicore,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139696&type=card,Lorwyn (Uncommon),"['6', 'Blue']",7,Creature — Elemental (5/5),"When Benthicore enters the battlefield, create two 1/1 blue Merfolk Wizard creature tokens.
+Tap two untapped Merfolk you control: Untap Benthicore. It gains shroud until end of turn. (It can't be the target of spells or abilities.)"
+16,Black Poplar Shaman,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139454&type=card,Lorwyn (Common),"['2', 'Black']",3,Creature — Treefolk Shaman (1/3),: Regenerate target Treefolk.
+17,Blades of Velis Vel,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139480&type=card,Lorwyn (Common),"['1', 'Red']",2,Tribal Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Up to two target creatures each get +2/+0 and gain all creature types until end of turn."
+18,Blind-Spot Giant,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146597&type=card,Lorwyn (Common),"['2', 'Red']",3,Creature — Giant Warrior (4/3),Blind-Spot Giant can't attack or block unless you control another Giant.
+19,Bog Hoodlums,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145966&type=card,Lorwyn (Common),"['5', 'Black']",6,Creature — Goblin Warrior (4/1),"Bog Hoodlums can't block.
+When Bog Hoodlums enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Bog Hoodlums. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+20,Boggart Birth Rite,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142359&type=card,Lorwyn (Common),['Black'],1,Tribal Sorcery — Goblin,Return target Goblin card from your graveyard to your hand.
+21,Boggart Forager,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146168&type=card,Lorwyn (Common),['Red'],1,Creature — Goblin Rogue (1/1),", Sacrifice Boggart Forager: Target player shuffles their library."
+22,Boggart Harbinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139441&type=card,Lorwyn (Uncommon),"['2', 'Black']",3,Creature — Goblin Shaman (2/1),"When Boggart Harbinger enters the battlefield, you may search your library for a Goblin card, reveal it, then shuffle and put that card on top."
+23,Boggart Loggers,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139709&type=card,Lorwyn (Common),"['2', 'Black']",3,Creature — Goblin Rogue (2/1),"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+, Sacrifice Boggart Loggers: Destroy target Treefolk or Forest."
+24,Boggart Mob,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140230&type=card,Lorwyn (Rare),"['3', 'Black']",4,Creature — Goblin Warrior (5/5),"Champion a Goblin (When this enters the battlefield, sacrifice it unless you exile another Goblin you control. When this leaves the battlefield, that card returns to the battlefield.)
+Whenever a Goblin you control deals combat damage to a player, you may create a 1/1 black Goblin Rogue creature token."
+25,Boggart Shenanigans,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139445&type=card,Lorwyn (Uncommon),"['2', 'Red']",3,Tribal Enchantment — Goblin,"Whenever another Goblin you control is put into a graveyard from the battlefield, you may have Boggart Shenanigans deal 1 damage to target player or planeswalker."
+26,Boggart Sprite-Chaser,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146446&type=card,Lorwyn (Common),"['1', 'Red']",2,Creature — Goblin Warrior (1/2),"As long as you control a Faerie, Boggart Sprite-Chaser gets +1/+1 and has flying."
+27,Bog-Strider Ash,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139410&type=card,Lorwyn (Common),"['3', 'Green']",4,Creature — Treefolk Shaman (2/4),"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Whenever a player casts a Goblin spell, you may pay . If you do, you gain 2 life."
+28,Briarhorn,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142365&type=card,Lorwyn (Uncommon),"['3', 'Green']",4,Creature — Elemental (3/3),"Flash
+When Briarhorn enters the battlefield, target creature gets +3/+3 until end of turn.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+29,"Brigid, Hero of Kinsbaile",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141829&type=card,Lorwyn (Rare),"['2', 'White', 'White']",4,Legendary Creature — Kithkin Archer (2/3),"First strike
+: Brigid, Hero of Kinsbaile deals 2 damage to each attacking or blocking creature target player controls."
+30,Brion Stoutarm,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140217&type=card,Lorwyn (Rare),"['2', 'Red', 'White']",4,Legendary Creature — Giant Warrior (4/4),"Lifelink
+, , Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player or planeswalker."
+31,Broken Ambitions,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145989&type=card,Lorwyn (Common),"['Variable Colorless', 'Blue']",1,Instant,"Counter target spell unless its controller pays . Clash with an opponent. If you win, that spell's controller mills four cards. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+32,Burrenton Forge-Tender,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139395&type=card,Lorwyn (Uncommon),['White'],1,Creature — Kithkin Wizard (1/1),"Protection from red
+Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn."
+33,Cairn Wanderer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140171&type=card,Lorwyn (Rare),"['4', 'Black']",5,Creature — Shapeshifter (4/4),"Changeling (This card is every creature type.)
+As long as a creature card with flying is in a graveyard, Cairn Wanderer has flying. The same is true for fear, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, and vigilance."
+34,Captivating Glance,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146172&type=card,Lorwyn (Uncommon),"['2', 'Blue']",3,Enchantment — Aura,"Enchant creature
+At the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+35,Caterwauling Boggart,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139471&type=card,Lorwyn (Common),"['3', 'Red']",4,Creature — Goblin Shaman (2/2),Goblins you control and Elementals you control have menace. (They can't be blocked except by two or more creatures.)
+36,Ceaseless Searblades,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139466&type=card,Lorwyn (Uncommon),"['3', 'Red']",4,Creature — Elemental Warrior (2/4),"Whenever you activate an ability of an Elemental, Ceaseless Searblades gets +1/+0 until end of turn."
+37,Cenn's Heir,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142360&type=card,Lorwyn (Common),"['1', 'White']",2,Creature — Kithkin Soldier (1/1),"Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other attacking Kithkin."
+38,Chandra Nalaar,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140176&type=card,Lorwyn (Rare),"['3', 'Red', 'Red']",5,Legendary Planeswalker — Chandra (6),"+1: Chandra Nalaar deals 1 damage to target player or planeswalker.
+−X: Chandra Nalaar deals X damage to target creature.
+−8: Chandra Nalaar deals 10 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls."
+39,Changeling Berserker,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145804&type=card,Lorwyn (Uncommon),"['3', 'Red']",4,Creature — Shapeshifter (5/3),"Changeling (This card is every creature type.)
+Haste
+Champion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)"
+40,Changeling Hero,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145968&type=card,Lorwyn (Uncommon),"['4', 'White']",5,Creature — Shapeshifter (4/4),"Changeling (This card is every creature type.)
+Champion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+41,Changeling Titan,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140345&type=card,Lorwyn (Uncommon),"['4', 'Green']",5,Creature — Shapeshifter (7/7),"Changeling (This card is every creature type.)
+Champion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)"
+42,Cloudcrown Oak,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139492&type=card,Lorwyn (Common),"['2', 'Green', 'Green']",4,Creature — Treefolk Warrior (3/4),Reach (This creature can block creatures with flying.)
+43,Cloudgoat Ranger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139664&type=card,Lorwyn (Uncommon),"['3', 'White', 'White']",5,Creature — Giant Warrior (3/3),"When Cloudgoat Ranger enters the battlefield, create three 1/1 white Kithkin Soldier creature tokens.
+Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn."
+44,Cloudthresher,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146173&type=card,Lorwyn (Rare),"['2', 'Green', 'Green', 'Green', 'Green']",6,Creature — Elemental (7/7),"Flash
+Reach
+When Cloudthresher enters the battlefield, it deals 2 damage to each creature with flying and each player.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+45,Colfenor's Plans,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146581&type=card,Lorwyn (Rare),"['2', 'Black', 'Black']",4,Enchantment,"When Colfenor's Plans enters the battlefield, exile the top seven cards of your library face down.
+You may look at the cards exiled with Colfenor's Plans, and you may play lands and cast spells from among those cards.
+Skip your draw step.
+You can't cast more than one spell each turn."
+46,Colfenor's Urn,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140209&type=card,Lorwyn (Rare),['3'],3,Artifact,"Whenever a creature with toughness 4 or greater is put into your graveyard from the battlefield, you may exile it.
+At the beginning of the end step, if three or more cards have been exiled with Colfenor's Urn, sacrifice it. If you do, return those cards to the battlefield under their owner's control."
+47,Consuming Bonfire,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139688&type=card,Lorwyn (Common),"['3', 'Red', 'Red']",5,Tribal Sorcery — Elemental,"Choose one —
+• Consuming Bonfire deals 4 damage to target non-Elemental creature.
+• Consuming Bonfire deals 7 damage to target Treefolk creature."
+48,Crib Swap,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143380&type=card,Lorwyn (Uncommon),"['2', 'White']",3,Tribal Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling."
+49,Crush Underfoot,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143384&type=card,Lorwyn (Uncommon),"['1', 'Red']",2,Tribal Instant — Giant,Choose a Giant creature you control. It deals damage equal to its power to target creature.
+50,Cryptic Command,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141819&type=card,Lorwyn (Rare),"['1', 'Blue', 'Blue', 'Blue']",4,Instant,"Choose two —
+• Counter target spell.
+• Return target permanent to its owner's hand.
+• Tap all creatures your opponents control.
+• Draw a card."
+51,Dauntless Dourbark,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141851&type=card,Lorwyn (Rare),"['3', 'Green']",4,Creature — Treefolk Warrior (*/*),"Dauntless Dourbark's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.
+Dauntless Dourbark has trample as long as you control another Treefolk."
+52,Dawnfluke,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145801&type=card,Lorwyn (Common),"['3', 'White']",4,Creature — Elemental (0/3),"Flash
+When Dawnfluke enters the battlefield, prevent the next 3 damage that would be dealt to any target this turn.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+53,Deathrender,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139727&type=card,Lorwyn (Rare),['4'],4,Artifact — Equipment,"Equipped creature gets +2/+2.
+Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.
+Equip"
+54,Deeptread Merrow,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142352&type=card,Lorwyn (Common),"['1', 'Blue']",2,Creature — Merfolk Rogue (2/1),: Deeptread Merrow gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)
+55,Dolmen Gate,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140206&type=card,Lorwyn (Rare),['2'],2,Artifact,Prevent all combat damage that would be dealt to attacking creatures you control.
+56,"Doran, the Siege Tower",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140201&type=card,Lorwyn (Rare),"['White', 'Black', 'Green']",3,Legendary Creature — Treefolk Shaman (0/5),Each creature assigns combat damage equal to its toughness rather than its power.
+57,Dread,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140168&type=card,Lorwyn (Rare),"['3', 'Black', 'Black', 'Black']",6,Creature — Elemental Incarnation (6/6),"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever a creature deals damage to you, destroy it.
+When Dread is put into a graveyard from anywhere, shuffle it into its owner's library."
+58,Dreamspoiler Witches,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139453&type=card,Lorwyn (Common),"['3', 'Black']",4,Creature — Faerie Wizard (2/2),"Flying
+Whenever you cast a spell during an opponent's turn, you may have target creature get -1/-1 until end of turn."
+59,Drowner of Secrets,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145979&type=card,Lorwyn (Uncommon),"['2', 'Blue']",3,Creature — Merfolk Wizard (1/3),Tap an untapped Merfolk you control: Target player mills a card.
+60,Ego Erasure,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139692&type=card,Lorwyn (Uncommon),"['2', 'Blue']",3,Tribal Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Creatures target player controls get -2/-0 and lose all creature types until end of turn."
+61,Elvish Branchbender,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146169&type=card,Lorwyn (Common),"['2', 'Green']",3,Creature — Elf Druid (2/2),": Until end of turn, target Forest becomes an X/X Treefolk creature in addition to its other types, where X is the number of Elves you control."
+62,Elvish Eulogist,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141804&type=card,Lorwyn (Common),['Green'],1,Creature — Elf Shaman (1/1),Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
+63,Elvish Handservant,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146179&type=card,Lorwyn (Common),['Green'],1,Creature — Elf Warrior (1/1),"Whenever a player casts a Giant spell, you may put a +1/+1 counter on Elvish Handservant."
+64,Elvish Harbinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139485&type=card,Lorwyn (Uncommon),"['2', 'Green']",3,Creature — Elf Druid (1/2),"When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle and put that card on top.
+: Add one mana of any color."
+65,Elvish Promenade,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139676&type=card,Lorwyn (Uncommon),"['3', 'Green']",4,Tribal Sorcery — Elf,Create a 1/1 green Elf Warrior creature token for each Elf you control.
+66,Entangling Trap,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146583&type=card,Lorwyn (Uncommon),"['1', 'White']",2,Enchantment,"Whenever you clash, tap target creature an opponent controls. If you won, that creature doesn't untap during its controller's next untap step. (This ability triggers after the clash ends.)"
+67,Epic Proportions,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143732&type=card,Lorwyn (Rare),"['4', 'Green', 'Green']",6,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature gets +5/+5 and has trample."
+68,Ethereal Whiskergill,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139431&type=card,Lorwyn (Uncommon),"['3', 'Blue']",4,Creature — Elemental (4/3),"Flying
+Ethereal Whiskergill can't attack unless defending player controls an Island."
+69,Exiled Boggart,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146443&type=card,Lorwyn (Common),"['1', 'Black']",2,Creature — Goblin Rogue (2/2),"When Exiled Boggart dies, discard a card."
+70,Eyeblight's Ending,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139449&type=card,Lorwyn (Common),"['2', 'Black']",3,Tribal Instant — Elf,Destroy target non-Elf creature.
+71,Eyes of the Wisent,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143728&type=card,Lorwyn (Rare),"['1', 'Green']",2,Tribal Enchantment — Elemental,"Whenever an opponent casts a blue spell during your turn, you may create a 4/4 green Elemental creature token."
+72,Facevaulter,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142361&type=card,Lorwyn (Common),['Black'],1,Creature — Goblin Warrior (1/1),", Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn."
+73,Faerie Harbinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139427&type=card,Lorwyn (Uncommon),"['3', 'Blue']",4,Creature — Faerie Wizard (2/2),"Flash
+Flying
+When Faerie Harbinger enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle and put that card on top."
+74,Faerie Tauntings,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139685&type=card,Lorwyn (Uncommon),"['2', 'Black']",3,Tribal Enchantment — Faerie,"Whenever you cast a spell during an opponent's turn, you may have each opponent lose 1 life."
+75,Faerie Trickery,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139435&type=card,Lorwyn (Common),"['1', 'Blue', 'Blue']",3,Tribal Instant — Faerie,"Counter target non-Faerie spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+76,Fallowsage,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145803&type=card,Lorwyn (Uncommon),"['3', 'Blue']",4,Creature — Merfolk Wizard (2/2),"Whenever Fallowsage becomes tapped, you may draw a card."
+77,Familiar's Ruse,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146584&type=card,Lorwyn (Uncommon),"['Blue', 'Blue']",2,Instant,"As an additional cost to cast this spell, return a creature you control to its owner's hand.
+Counter target spell."
+78,Fathom Trawl,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146170&type=card,Lorwyn (Rare),"['3', 'Blue', 'Blue']",5,Sorcery,"Reveal cards from the top of your library until you reveal three nonland cards. Put the nonland cards revealed this way into your hand, then put the rest of the revealed cards on the bottom of your library in any order."
+79,Faultgrinder,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145964&type=card,Lorwyn (Common),"['6', 'Red']",7,Creature — Elemental (4/4),"Trample
+When Faultgrinder enters the battlefield, destroy target land.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+80,Favor of the Mighty,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143683&type=card,Lorwyn (Rare),"['1', 'White']",2,Tribal Enchantment — Giant,Each creature with the highest mana value has protection from all colors.
+81,Fertile Ground,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139502&type=card,Lorwyn (Common),"['1', 'Green']",2,Enchantment — Aura,"Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+82,Final Revels,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146171&type=card,Lorwyn (Uncommon),"['4', 'Black']",5,Sorcery,"Choose one —
+• All creatures get +2/+0 until end of turn.
+• All creatures get -0/-2 until end of turn."
+83,Fire-Belly Changeling,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140338&type=card,Lorwyn (Common),"['1', 'Red']",2,Creature — Shapeshifter (1/1),"Changeling (This card is every creature type.)
+: Fire-Belly Changeling gets +1/+0 until end of turn. Activate no more than twice each turn."
+84,Fistful of Force,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143372&type=card,Lorwyn (Common),"['1', 'Green']",2,Instant,"Target creature gets +2/+2 until end of turn. Clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+85,Flamekin Bladewhirl,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140343&type=card,Lorwyn (Uncommon),['Red'],1,Creature — Elemental Warrior (2/1),"As an additional cost to cast this spell, reveal an Elemental card from your hand or pay ."
+86,Flamekin Brawler,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139461&type=card,Lorwyn (Common),['Red'],1,Creature — Elemental Warrior (0/2),: Flamekin Brawler gets +1/+0 until end of turn.
+87,Flamekin Harbinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139463&type=card,Lorwyn (Uncommon),['Red'],1,Creature — Elemental Shaman (1/1),"When Flamekin Harbinger enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle and put that card on top."
+88,Flamekin Spitfire,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139728&type=card,Lorwyn (Uncommon),"['1', 'Red']",2,Creature — Elemental Shaman (1/1),: Flamekin Spitfire deals 1 damage to any target.
+89,Fodder Launch,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146447&type=card,Lorwyn (Uncommon),"['3', 'Black']",4,Tribal Sorcery — Goblin,"As an additional cost to cast this spell, sacrifice a Goblin.
+Target creature gets -5/-5 until end of turn. Fodder Launch deals 5 damage to that creature's controller."
+90,Footbottom Feast,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139440&type=card,Lorwyn (Common),"['2', 'Black']",3,Instant,"Put any number of target creature cards from your graveyard on top of your library.
+Draw a card."
+91,Forced Fruition,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146166&type=card,Lorwyn (Rare),"['4', 'Blue', 'Blue']",6,Enchantment,"Whenever an opponent casts a spell, that player draws seven cards."
+92,Forest,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143633&type=card,Lorwyn (Land),"['4', 'Blue', 'Blue']",0,Basic Land — Forest,
+93,Gaddock Teeg,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140188&type=card,Lorwyn (Rare),"['Green', 'White']",2,Legendary Creature — Kithkin Advisor (2/2),"Noncreature spells with mana value 4 or greater can't be cast.
+Noncreature spells with in their mana costs can't be cast."
+94,Galepowder Mage,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139666&type=card,Lorwyn (Rare),"['3', 'White']",4,Creature — Kithkin Wizard (3/3),"Flying
+Whenever Galepowder Mage attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step."
+95,Garruk Wildspeaker,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140205&type=card,Lorwyn (Rare),"['2', 'Green', 'Green']",4,Legendary Planeswalker — Garruk (3),"+1: Untap two target lands.
+−1: Create a 3/3 green Beast creature token.
+−4: Creatures you control get +3/+3 and gain trample until end of turn."
+96,Ghostly Changeling,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139447&type=card,Lorwyn (Uncommon),"['2', 'Black']",3,Creature — Shapeshifter (2/2),"Changeling (This card is every creature type.)
+: Ghostly Changeling gets +1/+1 until end of turn."
+97,Giant Harbinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139474&type=card,Lorwyn (Uncommon),"['4', 'Red']",5,Creature — Giant Shaman (3/4),"When Giant Harbinger enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle and put that card on top."
+98,Giant's Ire,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139477&type=card,Lorwyn (Common),"['3', 'Red']",4,Tribal Sorcery — Giant,"Giant's Ire deals 4 damage to target player or planeswalker. If you control a Giant, draw a card."
+99,Gilt-Leaf Ambush,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145984&type=card,Lorwyn (Common),"['2', 'Green']",3,Tribal Instant — Elf,"Create two 1/1 green Elf Warrior creature tokens. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)"
+100,Gilt-Leaf Palace,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=153455&type=card,Lorwyn (Rare),"['2', 'Green']",0,Land,"As Gilt-Leaf Palace enters the battlefield, you may reveal an Elf card from your hand. If you don't, Gilt-Leaf Palace enters the battlefield tapped.
+: Add or ."
+101,Gilt-Leaf Seer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145812&type=card,Lorwyn (Common),"['2', 'Green']",3,Creature — Elf Shaman (2/2),", : Look at the top two cards of your library, then put them back in any order."
+102,Glarewielder,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145981&type=card,Lorwyn (Uncommon),"['4', 'Red']",5,Creature — Elemental Shaman (3/1),"Haste
+When Glarewielder enters the battlefield, up to two target creatures can't block this turn.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+103,Glen Elendra Pranksters,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146162&type=card,Lorwyn (Uncommon),"['3', 'Blue']",4,Creature — Faerie Wizard (1/3),"Flying
+Whenever you cast a spell during an opponent's turn, you may return target creature you control to its owner's hand."
+104,Glimmerdust Nap,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139436&type=card,Lorwyn (Common),"['2', 'Blue']",3,Enchantment — Aura,"Enchant tapped creature
+Enchanted creature doesn't untap during its controller's untap step."
+105,Goatnapper,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142363&type=card,Lorwyn (Uncommon),"['2', 'Red']",3,Creature — Goblin Rogue (2/2),"When Goatnapper enters the battlefield, untap target Goat and gain control of it until end of turn. It gains haste until end of turn."
+106,Goldmeadow Dodger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142356&type=card,Lorwyn (Common),['White'],1,Creature — Kithkin Rogue (1/1),Goldmeadow Dodger can't be blocked by creatures with power 4 or greater.
+107,Goldmeadow Harrier,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139397&type=card,Lorwyn (Common),['White'],1,Creature — Kithkin Soldier (1/1),", : Tap target creature."
+108,Goldmeadow Stalwart,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139698&type=card,Lorwyn (Uncommon),['White'],1,Creature — Kithkin Soldier (2/2),"As an additional cost to cast this spell, reveal a Kithkin card from your hand or pay ."
+109,Guardian of Cloverdell,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139665&type=card,Lorwyn (Uncommon),"['5', 'Green', 'Green']",7,Creature — Treefolk Shaman (4/5),"When Guardian of Cloverdell enters the battlefield, create three 1/1 white Kithkin Soldier creature tokens.
+, Sacrifice a Kithkin: You gain 1 life."
+110,Guile,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140190&type=card,Lorwyn (Rare),"['3', 'Blue', 'Blue', 'Blue']",6,Creature — Elemental Incarnation (6/6),"Guile can't be blocked except by three or more creatures.
+If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.
+When Guile is put into a graveyard from anywhere, shuffle it into its owner's library."
+111,Hamletback Goliath,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143682&type=card,Lorwyn (Rare),"['6', 'Red']",7,Creature — Giant Warrior (6/6),"Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power."
+112,Harpoon Sniper,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139407&type=card,Lorwyn (Uncommon),"['2', 'White']",3,Creature — Merfolk Archer (2/2),", : Harpoon Sniper deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control."
+113,Heal the Scars,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145808&type=card,Lorwyn (Common),"['3', 'Green']",4,Instant,Regenerate target creature. You gain life equal to that creature's toughness.
+114,Hearthcage Giant,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139691&type=card,Lorwyn (Uncommon),"['6', 'Red', 'Red']",8,Creature — Giant Warrior (5/5),"When Hearthcage Giant enters the battlefield, create two 3/1 red Elemental Shaman creature tokens.
+Sacrifice an Elemental: Target Giant creature gets +3/+1 until end of turn."
+115,Heat Shimmer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139468&type=card,Lorwyn (Rare),"['2', 'Red']",3,Sorcery,"Create a token that's a copy of target creature, except it has haste and ""At the beginning of the end step, exile this permanent."""
+116,Herbal Poultice,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139740&type=card,Lorwyn (Common),['0'],0,Artifact,", Sacrifice Herbal Poultice: Regenerate target creature."
+117,Hillcomber Giant,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145971&type=card,Lorwyn (Common),"['2', 'White', 'White']",4,Creature — Giant Scout (3/3),Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)
+118,Hoarder's Greed,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146160&type=card,Lorwyn (Uncommon),"['3', 'Black']",4,Sorcery,"You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+119,Hoofprints of the Stag,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143730&type=card,Lorwyn (Rare),"['1', 'White']",2,Tribal Enchantment — Elemental,"Whenever you draw a card, you may put a hoofprint counter on Hoofprints of the Stag.
+, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate only during your turn."
+120,Horde of Notions,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140219&type=card,Lorwyn (Rare),"['White', 'Blue', 'Black', 'Red', 'Green']",5,Legendary Creature — Elemental (5/5),"Vigilance, trample, haste
+: You may play target Elemental card from your graveyard without paying its mana cost."
+121,Hornet Harasser,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142355&type=card,Lorwyn (Common),"['2', 'Black', 'Black']",4,Creature — Goblin Shaman (2/2),"When Hornet Harasser dies, target creature gets -2/-2 until end of turn."
+122,Hostility,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140164&type=card,Lorwyn (Rare),"['3', 'Red', 'Red', 'Red']",6,Creature — Elemental Incarnation (6/6),"Haste
+If a spell you control would deal damage to an opponent, prevent that damage. Create a 3/1 red Elemental Shaman creature token with haste for each 1 damage prevented this way.
+When Hostility is put into a graveyard from anywhere, shuffle it into its owner's library."
+123,Howltooth Hollow,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139513&type=card,Lorwyn (Rare),"['3', 'Red', 'Red', 'Red']",0,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+: Add .
+, : You may play the exiled card without paying its mana cost if each player has no cards in hand."
+124,Hunt Down,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143611&type=card,Lorwyn (Common),['Green'],1,Sorcery,Target creature blocks target creature this turn if able.
+125,Hunter of Eyeblights,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139723&type=card,Lorwyn (Uncommon),"['3', 'Black', 'Black']",5,Creature — Elf Assassin (3/3),"When Hunter of Eyeblights enters the battlefield, put a +1/+1 counter on target creature you don't control.
+, : Destroy target creature with a counter on it."
+126,Hurly-Burly,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143381&type=card,Lorwyn (Common),"['1', 'Red']",2,Sorcery,"Choose one —
+• Hurly-Burly deals 1 damage to each creature without flying.
+• Hurly-Burly deals 1 damage to each creature with flying."
+127,Immaculate Magistrate,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139721&type=card,Lorwyn (Rare),"['3', 'Green']",4,Creature — Elf Shaman (2/2),: Put a +1/+1 counter on target creature for each Elf you control.
+128,Imperious Perfect,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139683&type=card,Lorwyn (Uncommon),"['2', 'Green']",3,Creature — Elf Warrior (2/2),"Other Elves you control get +1/+1.
+, : Create a 1/1 green Elf Warrior creature token."
+129,Incandescent Soulstoke,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139730&type=card,Lorwyn (Rare),"['2', 'Red']",3,Creature — Elemental Shaman (2/2),"Other Elemental creatures you control get +1/+1.
+, : You may put an Elemental creature card from your hand onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step."
+130,Incendiary Command,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141830&type=card,Lorwyn (Rare),"['3', 'Red', 'Red']",5,Sorcery,"Choose two —
+• Incendiary Command deals 4 damage to target player or planeswalker.
+• Incendiary Command deals 2 damage to each creature.
+• Destroy target nonbasic land.
+• Each player discards all the cards in their hand, then draws that many cards."
+131,Incremental Growth,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146777&type=card,Lorwyn (Uncommon),"['3', 'Green', 'Green']",5,Sorcery,"Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature."
+132,Ingot Chewer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139686&type=card,Lorwyn (Common),"['4', 'Red']",5,Creature — Elemental (3/3),"When Ingot Chewer enters the battlefield, destroy target artifact.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+133,Inkfathom Divers,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139419&type=card,Lorwyn (Common),"['3', 'Blue', 'Blue']",5,Creature — Merfolk Soldier (3/3),"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+When Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order."
+134,Inner-Flame Acolyte,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146599&type=card,Lorwyn (Common),"['1', 'Red', 'Red']",3,Creature — Elemental Shaman (2/2),"When Inner-Flame Acolyte enters the battlefield, target creature gets +2/+0 and gains haste until end of turn.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+135,Inner-Flame Igniter,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139462&type=card,Lorwyn (Uncommon),"['2', 'Red']",3,Creature — Elemental Warrior (2/2),": Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn."
+136,Island,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143632&type=card,Lorwyn (Land),"['2', 'Red']",0,Basic Land — Island,
+137,Jace Beleren,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140222&type=card,Lorwyn (Rare),"['1', 'Blue', 'Blue']",3,Legendary Planeswalker — Jace (3),"+2: Each player draws a card.
+−1: Target player draws a card.
+−10: Target player mills twenty cards."
+138,Jagged-Scar Archers,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139726&type=card,Lorwyn (Uncommon),"['1', 'Green', 'Green']",3,Creature — Elf Archer (*/*),"Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.
+: Jagged-Scar Archers deals damage equal to its power to target creature with flying."
+139,Judge of Currents,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139406&type=card,Lorwyn (Common),"['1', 'White']",2,Creature — Merfolk Wizard (1/1),"Whenever a Merfolk you control becomes tapped, you may gain 1 life."
+140,Kinsbaile Balloonist,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139403&type=card,Lorwyn (Common),"['3', 'White']",4,Creature — Kithkin Soldier (2/2),"Flying
+Whenever Kinsbaile Balloonist attacks, you may have target creature gain flying until end of turn."
+141,Kinsbaile Skirmisher,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143018&type=card,Lorwyn (Common),"['1', 'White']",2,Creature — Kithkin Soldier (2/2),"When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn."
+142,Kithkin Daggerdare,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139498&type=card,Lorwyn (Common),"['1', 'Green']",2,Creature — Kithkin Soldier (1/1),", : Target attacking creature gets +2/+2 until end of turn."
+143,Kithkin Greatheart,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146444&type=card,Lorwyn (Common),"['1', 'White']",2,Creature — Kithkin Soldier (2/1),"As long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike."
+144,Kithkin Harbinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139399&type=card,Lorwyn (Uncommon),"['2', 'White']",3,Creature — Kithkin Wizard (1/3),"When Kithkin Harbinger enters the battlefield, you may search your library for a Kithkin card, reveal it, then shuffle and put that card on top."
+145,Kithkin Healer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145986&type=card,Lorwyn (Common),"['2', 'White']",3,Creature — Kithkin Cleric (2/2),: Prevent the next 1 damage that would be dealt to any target this turn.
+146,Kithkin Mourncaller,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139497&type=card,Lorwyn (Uncommon),"['2', 'Green']",3,Creature — Kithkin Scout (2/2),"Whenever an attacking Kithkin or Elf is put into your graveyard from the battlefield, you may draw a card."
+147,Knight of Meadowgrain,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139715&type=card,Lorwyn (Uncommon),"['White', 'White']",2,Creature — Kithkin Knight (2/2),"First strike
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+148,Knucklebone Witch,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143609&type=card,Lorwyn (Rare),['Black'],1,Creature — Goblin Shaman (1/1),"Whenever a Goblin you control is put into a graveyard from the battlefield, you may put a +1/+1 counter on Knucklebone Witch."
+149,Lace with Moonglove,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143376&type=card,Lorwyn (Common),"['2', 'Green']",3,Instant,"Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy that creature.)
+Draw a card."
+150,Lairwatch Giant,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143383&type=card,Lorwyn (Common),"['5', 'White']",6,Creature — Giant Warrior (5/3),"Lairwatch Giant can block an additional creature each combat.
+Whenever Lairwatch Giant blocks two or more creatures, it gains first strike until end of turn."
+151,Lammastide Weave,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139404&type=card,Lorwyn (Uncommon),"['1', 'Green']",2,Instant,"Choose a card name, then target player mills a card. If a card with the chosen name was milled this way, you gain life equal to its mana value.
+Draw a card."
+152,Lash Out,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145987&type=card,Lorwyn (Common),"['1', 'Red']",2,Instant,"Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+153,Leaf Gilder,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139487&type=card,Lorwyn (Common),"['1', 'Green']",2,Creature — Elf Druid (2/1),: Add .
+154,Lignify,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139703&type=card,Lorwyn (Common),"['1', 'Green']",2,Tribal Enchantment — Treefolk Aura,"Enchant creature
+Enchanted creature is a Treefolk with base power and toughness 0/4 and loses all abilities."
+155,Liliana Vess,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140212&type=card,Lorwyn (Rare),"['3', 'Black', 'Black']",5,Legendary Planeswalker — Liliana (5),"+1: Target player discards a card.
+−2: Search your library for a card, then shuffle and put that card on top.
+−8: Put all creature cards from all graveyards onto the battlefield under your control."
+156,Lowland Oaf,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140183&type=card,Lorwyn (Common),"['3', 'Red']",4,Creature — Giant Warrior (3/3),: Target Goblin creature you control gets +1/+0 and gains flying until end of turn. Sacrifice that creature at the beginning of the next end step.
+157,Lys Alana Huntmaster,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139401&type=card,Lorwyn (Common),"['2', 'Green', 'Green']",4,Creature — Elf Warrior (3/3),"Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token."
+158,Lys Alana Scarblade,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143021&type=card,Lorwyn (Uncommon),"['2', 'Black']",3,Creature — Elf Assassin (1/1),", Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control."
+159,Mad Auntie,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139708&type=card,Lorwyn (Rare),"['2', 'Black']",3,Creature — Goblin Shaman (2/2),"Other Goblin creatures you control get +1/+1.
+: Regenerate another target Goblin."
+160,Makeshift Mannequin,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139670&type=card,Lorwyn (Uncommon),"['3', 'Black']",4,Instant,"Return target creature card from your graveyard to the battlefield with a mannequin counter on it. For as long as that creature has a mannequin counter on it, it has ""When this creature becomes the target of a spell or ability, sacrifice it."""
+161,Marsh Flitter,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139705&type=card,Lorwyn (Uncommon),"['3', 'Black']",4,Creature — Faerie Rogue (1/1),"Flying
+When Marsh Flitter enters the battlefield, create two 1/1 black Goblin Rogue creature tokens.
+Sacrifice a Goblin: Marsh Flitter has base power and toughness 3/3 until end of turn."
+162,Masked Admirers,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140184&type=card,Lorwyn (Rare),"['2', 'Green', 'Green']",4,Creature — Elf Shaman (3/2),"When Masked Admirers enters the battlefield, draw a card.
+Whenever you cast a creature spell, you may pay . If you do, return Masked Admirers from your graveyard to your hand."
+163,Merrow Commerce,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139663&type=card,Lorwyn (Uncommon),"['1', 'Blue']",2,Tribal Enchantment — Merfolk,"At the beginning of your end step, untap all Merfolk you control."
+164,Merrow Harbinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139420&type=card,Lorwyn (Uncommon),"['3', 'Blue']",4,Creature — Merfolk Wizard (2/3),"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+When Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top."
+165,Merrow Reejerey,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139702&type=card,Lorwyn (Uncommon),"['2', 'Blue']",3,Creature — Merfolk Soldier (2/2),"Other Merfolk creatures you control get +1/+1.
+Whenever you cast a Merfolk spell, you may tap or untap target permanent."
+166,Militia's Pride,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140193&type=card,Lorwyn (Rare),"['1', 'White']",2,Tribal Enchantment — Kithkin,"Whenever a nontoken creature you control attacks, you may pay . If you do, create a 1/1 white Kithkin Soldier creature token that's tapped and attacking."
+167,Mirror Entity,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141818&type=card,Lorwyn (Rare),"['2', 'White']",3,Creature — Shapeshifter (1/1),"Changeling (This card is every creature type.)
+: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types."
+168,Mistbind Clique,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141825&type=card,Lorwyn (Rare),"['3', 'Blue']",4,Creature — Faerie Wizard (4/4),"Flash
+Flying
+Champion a Faerie (When this enters the battlefield, sacrifice it unless you exile another Faerie you control. When this leaves the battlefield, that card returns to the battlefield.)
+When a Faerie is championed with Mistbind Clique, tap all lands target player controls."
+169,Moonglove Extract,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139506&type=card,Lorwyn (Common),['3'],3,Artifact,Sacrifice Moonglove Extract: It deals 2 damage to any target.
+170,Moonglove Winnower,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139483&type=card,Lorwyn (Common),"['3', 'Black']",4,Creature — Elf Rogue (2/3),Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+171,Mosswort Bridge,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139515&type=card,Lorwyn (Rare),"['3', 'Black']",0,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+: Add .
+, : You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater."
+172,Mountain,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143627&type=card,Lorwyn (Land),"['3', 'Black']",0,Basic Land — Mountain,
+173,Mournwhelk,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145800&type=card,Lorwyn (Common),"['6', 'Black']",7,Creature — Elemental (3/3),"When Mournwhelk enters the battlefield, target player discards two cards.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+174,Mudbutton Torchrunner,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139742&type=card,Lorwyn (Common),"['2', 'Red']",3,Creature — Goblin Warrior (1/1),"When Mudbutton Torchrunner dies, it deals 3 damage to any target."
+175,Mulldrifter,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145811&type=card,Lorwyn (Common),"['4', 'Blue']",5,Creature — Elemental (2/2),"Flying
+When Mulldrifter enters the battlefield, draw two cards.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+176,Nameless Inversion,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143388&type=card,Lorwyn (Common),"['1', 'Black']",2,Tribal Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Target creature gets +3/-3 and loses all creature types until end of turn."
+177,Nath of the Gilt-Leaf,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143370&type=card,Lorwyn (Rare),"['3', 'Black', 'Green']",5,Legendary Creature — Elf Warrior (4/4),"At the beginning of your upkeep, you may have target opponent discard a card at random.
+Whenever an opponent discards a card, you may create a 1/1 green Elf Warrior creature token."
+178,Nath's Buffoon,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139446&type=card,Lorwyn (Common),"['1', 'Black']",2,Creature — Goblin Rogue (1/1),Protection from Elves
+179,Nath's Elite,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145990&type=card,Lorwyn (Common),"['4', 'Green']",5,Creature — Elf Warrior (4/2),"All creatures able to block Nath's Elite do so.
+When Nath's Elite enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Nath's Elite. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+180,Neck Snap,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139693&type=card,Lorwyn (Common),"['3', 'White']",4,Instant,Destroy target attacking or blocking creature.
+181,Nectar Faerie,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139451&type=card,Lorwyn (Uncommon),"['1', 'Black']",2,Creature — Faerie Wizard (1/1),"Flying
+, : Target Faerie or Elf gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
+182,Needle Drop,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146161&type=card,Lorwyn (Common),['Red'],1,Instant,"Needle Drop deals 1 damage to any target that was dealt damage this turn.
+Draw a card."
+183,Nettlevine Blight,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143731&type=card,Lorwyn (Rare),"['4', 'Black', 'Black']",6,Enchantment — Aura,"Enchant creature or land
+Enchanted permanent has ""At the beginning of your end step, sacrifice this permanent and attach Nettlevine Blight to a creature or land you control."""
+184,Nightshade Stinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139456&type=card,Lorwyn (Common),['Black'],1,Creature — Faerie Rogue (1/1),"Flying
+Nightshade Stinger can't block."
+185,Nova Chaser,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140239&type=card,Lorwyn (Rare),"['3', 'Red']",4,Creature — Elemental Warrior (10/2),"Trample
+Champion an Elemental (When this enters the battlefield, sacrifice it unless you exile another Elemental you control. When this leaves the battlefield, that card returns to the battlefield.)"
+186,Oaken Brawler,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145988&type=card,Lorwyn (Common),"['3', 'White']",4,Creature — Treefolk Warrior (2/4),"When Oaken Brawler enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+187,Oakgnarl Warrior,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139494&type=card,Lorwyn (Common),"['5', 'Green', 'Green']",7,Creature — Treefolk Warrior (5/7),"Vigilance, trample"
+188,Oblivion Ring,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139414&type=card,Lorwyn (Common),"['2', 'White']",3,Enchantment,"When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+189,Oona's Prowler,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146582&type=card,Lorwyn (Rare),"['1', 'Black']",2,Creature — Faerie Rogue (3/1),"Flying
+Discard a card: Oona's Prowler gets -2/-0 until end of turn. Any player may activate this ability."
+190,Paperfin Rascal,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145814&type=card,Lorwyn (Common),"['2', 'Blue']",3,Creature — Merfolk Rogue (2/2),"When Paperfin Rascal enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+191,Peppersmoke,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139458&type=card,Lorwyn (Common),['Black'],1,Tribal Instant — Faerie,"Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card."
+192,Pestermite,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139428&type=card,Lorwyn (Common),"['2', 'Blue']",3,Creature — Faerie Rogue (2/1),"Flash
+Flying
+When Pestermite enters the battlefield, you may tap or untap target permanent."
+193,Plains,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143630&type=card,Lorwyn (Land),"['2', 'Blue']",0,Basic Land — Plains,
+194,Plover Knights,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139396&type=card,Lorwyn (Common),"['3', 'White', 'White']",5,Creature — Kithkin Knight (3/3),"Flying, first strike"
+195,Pollen Lullaby,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145815&type=card,Lorwyn (Uncommon),"['1', 'White']",2,Instant,"Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+196,Ponder,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139512&type=card,Lorwyn (Common),['Blue'],1,Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle.
+Draw a card."
+197,Primal Command,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141824&type=card,Lorwyn (Rare),"['3', 'Green', 'Green']",5,Sorcery,"Choose two —
+• Target player gains 7 life.
+• Put target noncreature permanent on top of its owner's library.
+• Target player shuffles their graveyard into their library.
+• Search your library for a creature card, reveal it, put it into your hand, then shuffle."
+198,Profane Command,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141814&type=card,Lorwyn (Rare),"['Variable Colorless', 'Black', 'Black']",2,Sorcery,"Choose two —
+• Target player loses X life.
+• Return target creature card with mana value X or less from your graveyard to the battlefield.
+• Target creature gets -X/-X until end of turn.
+• Up to X target creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)"
+199,Protective Bubble,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139687&type=card,Lorwyn (Common),"['3', 'Blue']",4,Enchantment — Aura,"Enchant creature
+Enchanted creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)"
+200,Prowess of the Fair,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146167&type=card,Lorwyn (Uncommon),"['1', 'Black']",2,Tribal Enchantment — Elf,"Whenever another nontoken Elf is put into your graveyard from the battlefield, you may create a 1/1 green Elf Warrior creature token."
+201,Purity,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140214&type=card,Lorwyn (Rare),"['3', 'White', 'White', 'White']",6,Creature — Elemental Incarnation (6/6),"Flying
+If noncombat damage would be dealt to you, prevent that damage. You gain life equal to the damage prevented this way.
+When Purity is put into a graveyard from anywhere, shuffle it into its owner's library."
+202,Quill-Slinger Boggart,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139469&type=card,Lorwyn (Common),"['3', 'Black']",4,Creature — Goblin Warrior (3/2),"Whenever a player casts a Kithkin spell, you may have target player lose 1 life."
+203,Rebellion of the Flamekin,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139679&type=card,Lorwyn (Uncommon),"['3', 'Red']",4,Tribal Enchantment — Elemental,"Whenever you clash, you may pay . If you do, create a 3/1 red Elemental Shaman creature token. If you won, that token gains haste until end of turn. (This ability triggers after the clash ends.)"
+204,Rings of Brighthearth,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140216&type=card,Lorwyn (Rare),['3'],3,Artifact,"Whenever you activate an ability, if it isn't a mana ability, you may pay . If you do, copy that ability. You may choose new targets for the copy."
+205,Ringskipper,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145802&type=card,Lorwyn (Common),"['1', 'Blue']",2,Creature — Faerie Wizard (1/1),"Flying
+When Ringskipper dies, clash with an opponent. If you win, return Ringskipper to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+206,Rootgrapple,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139499&type=card,Lorwyn (Common),"['4', 'Green']",5,Tribal Instant — Treefolk,"Destroy target noncreature permanent. If you control a Treefolk, draw a card."
+207,Runed Stalactite,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139508&type=card,Lorwyn (Common),['1'],1,Artifact — Equipment,"Equipped creature gets +1/+1 and is every creature type.
+Equip"
+208,Scarred Vinebreeder,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139674&type=card,Lorwyn (Common),"['1', 'Black']",2,Creature — Elf Shaman (1/1),", Exile an Elf card from your graveyard: Scarred Vinebreeder gets +3/+3 until end of turn."
+209,Scattering Stroke,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139668&type=card,Lorwyn (Uncommon),"['2', 'Blue', 'Blue']",4,Instant,"Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add an amount of equal to that spell's mana value. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+210,Scion of Oona,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139741&type=card,Lorwyn (Rare),"['2', 'Blue']",3,Creature — Faerie Soldier (1/1),"Flash
+Flying
+Other Faerie creatures you control get +1/+1.
+Other Faeries you control have shroud. (They can't be the targets of spells or abilities.)"
+211,Secluded Glen,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=153458&type=card,Lorwyn (Rare),"['2', 'Blue']",0,Land,"As Secluded Glen enters the battlefield, you may reveal a Faerie card from your hand. If you don't, Secluded Glen enters the battlefield tapped.
+: Add or ."
+212,Seedguide Ash,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146165&type=card,Lorwyn (Uncommon),"['4', 'Green']",5,Creature — Treefolk Druid (4/4),"When Seedguide Ash dies, you may search your library for up to three Forest cards, put them onto the battlefield tapped, then shuffle."
+213,Sentinels of Glen Elendra,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139426&type=card,Lorwyn (Common),"['3', 'Blue']",4,Creature — Faerie Soldier (2/3),"Flash
+Flying"
+214,Sentry Oak,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145970&type=card,Lorwyn (Uncommon),"['4', 'White']",5,Creature — Treefolk Warrior (3/5),"Defender
+At the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+215,Shapesharer,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140200&type=card,Lorwyn (Rare),"['1', 'Blue']",2,Creature — Shapeshifter (1/1),"Changeling (This card is every creature type.)
+: Target Shapeshifter becomes a copy of target creature until your next turn."
+216,Shelldock Isle,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146178&type=card,Lorwyn (Rare),"['1', 'Blue']",0,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+: Add .
+, : You may play the exiled card without paying its mana cost if a library has twenty or fewer cards in it."
+217,Shields of Velis Vel,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139411&type=card,Lorwyn (Common),['White'],1,Tribal Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Creatures target player controls get +0/+1 and gain all creature types until end of turn."
+218,Shimmering Grotto,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141802&type=card,Lorwyn (Common),['White'],0,Land,": Add .
+, : Add one mana of any color."
+219,Shriekmaw,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146175&type=card,Lorwyn (Uncommon),"['4', 'Black']",5,Creature — Elemental (3/2),"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+220,Silvergill Adept,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139682&type=card,Lorwyn (Uncommon),"['1', 'Blue']",2,Creature — Merfolk Wizard (2/1),"As an additional cost to cast this spell, reveal a Merfolk card from your hand or pay .
+When Silvergill Adept enters the battlefield, draw a card."
+221,Silvergill Douser,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141853&type=card,Lorwyn (Common),"['1', 'Blue']",2,Creature — Merfolk Wizard (1/1),": Target creature gets -X/-0 until end of turn, where X is the number of Merfolk and/or Faeries you control."
+222,Skeletal Changeling,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145809&type=card,Lorwyn (Common),"['1', 'Black']",2,Creature — Shapeshifter (1/1),"Changeling (This card is every creature type.)
+: Regenerate Skeletal Changeling."
+223,Smokebraider,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139465&type=card,Lorwyn (Common),"['1', 'Red']",2,Creature — Elemental Shaman (1/1),: Add two mana in any combination of colors. Spend this mana only to cast Elemental spells or activate abilities of Elementals.
+224,Soaring Hope,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139511&type=card,Lorwyn (Common),"['4', 'White']",5,Enchantment — Aura,"Enchant creature
+When Soaring Hope enters the battlefield, you gain 3 life.
+Enchanted creature has flying.
+: Put Soaring Hope on top of its owner's library."
+225,Soulbright Flamekin,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139467&type=card,Lorwyn (Common),"['1', 'Red']",2,Creature — Elemental Shaman (2/1),": Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add ."
+226,Sower of Temptation,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140165&type=card,Lorwyn (Rare),"['2', 'Blue', 'Blue']",4,Creature — Faerie Wizard (2/2),"Flying
+When Sower of Temptation enters the battlefield, gain control of target creature for as long as Sower of Temptation remains on the battlefield."
+227,Spellstutter Sprite,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139429&type=card,Lorwyn (Common),"['1', 'Blue']",2,Creature — Faerie Wizard (1/1),"Flash
+Flying
+When Spellstutter Sprite enters the battlefield, counter target spell with mana value X or less, where X is the number of Faeries you control."
+228,Spiderwig Boggart,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146445&type=card,Lorwyn (Common),"['2', 'Black']",3,Creature — Goblin Shaman (2/2),"When Spiderwig Boggart enters the battlefield, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)"
+229,Spinerock Knoll,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139514&type=card,Lorwyn (Rare),"['2', 'Black']",0,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+: Add .
+, : You may play the exiled card without paying its mana cost if an opponent was dealt 7 or more damage this turn."
+230,Spring Cleaning,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139489&type=card,Lorwyn (Common),"['1', 'Green']",2,Instant,"Destroy target enchantment. Clash with an opponent. If you win, destroy all enchantments your opponents control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+231,Springjack Knight,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143016&type=card,Lorwyn (Common),"['2', 'White']",3,Creature — Kithkin Knight (2/1),"Whenever Springjack Knight attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+232,Springleaf Drum,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139509&type=card,Lorwyn (Common),['1'],1,Artifact,", Tap an untapped creature you control: Add one mana of any color."
+233,Squeaking Pie Sneak,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139710&type=card,Lorwyn (Uncommon),"['1', 'Black']",2,Creature — Goblin Rogue (2/2),"As an additional cost to cast this spell, reveal a Goblin card from your hand or pay .
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)"
+234,Stinkdrinker Daredevil,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143607&type=card,Lorwyn (Common),"['2', 'Red']",3,Creature — Goblin Rogue (1/3),Giant spells you cast cost less to cast.
+235,Stonybrook Angler,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142358&type=card,Lorwyn (Common),"['1', 'Blue']",2,Creature — Merfolk Wizard (1/2),", : You may tap or untap target creature."
+236,Streambed Aquitects,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139424&type=card,Lorwyn (Common),"['1', 'Blue', 'Blue']",3,Creature — Merfolk Scout (2/3),": Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)
+: Target land becomes an Island until end of turn."
+237,Summon the School,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143684&type=card,Lorwyn (Uncommon),"['3', 'White']",4,Tribal Sorcery — Merfolk,"Create two 1/1 blue Merfolk Wizard creature tokens.
+Tap four untapped Merfolk you control: Return Summon the School from your graveyard to your hand."
+238,Sunrise Sovereign,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139667&type=card,Lorwyn (Rare),"['5', 'Red']",6,Creature — Giant Warrior (5/5),Other Giant creatures you control get +2/+2 and have trample.
+239,Surge of Thoughtweft,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145799&type=card,Lorwyn (Common),"['1', 'White']",2,Tribal Instant — Kithkin,"Creatures you control get +1/+1 until end of turn. If you control a Kithkin, draw a card."
+240,Surgespanner,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141828&type=card,Lorwyn (Rare),"['2', 'Blue', 'Blue']",4,Creature — Merfolk Wizard (2/2),"Whenever Surgespanner becomes tapped, you may pay . If you do, return target permanent to its owner's hand."
+241,Swamp,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143629&type=card,Lorwyn (Land),"['2', 'Blue', 'Blue']",0,Basic Land — Swamp,
+242,"Sygg, River Guide",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140172&type=card,Lorwyn (Rare),"['White', 'Blue']",2,Legendary Creature — Merfolk Wizard (2/2),"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+: Target Merfolk you control gains protection from the color of your choice until end of turn."
+243,Sylvan Echoes,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146601&type=card,Lorwyn (Uncommon),['Green'],1,Enchantment,"Whenever you clash and win, you may draw a card. (This ability triggers after the clash ends.)"
+244,Tar Pitcher,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139470&type=card,Lorwyn (Uncommon),"['3', 'Red']",4,Creature — Goblin Shaman (2/2),", Sacrifice a Goblin: Tar Pitcher deals 2 damage to any target."
+245,Tarfire,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139476&type=card,Lorwyn (Common),['Red'],1,Tribal Instant — Goblin,Tarfire deals 2 damage to any target.
+246,Thieving Sprite,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139452&type=card,Lorwyn (Common),"['2', 'Black']",3,Creature — Faerie Rogue (1/1),"Flying
+When Thieving Sprite enters the battlefield, target player reveals X cards from their hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card."
+247,Thorn of Amethyst,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140166&type=card,Lorwyn (Rare),['2'],2,Artifact,Noncreature spells cost more to cast.
+248,Thorntooth Witch,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143015&type=card,Lorwyn (Uncommon),"['5', 'Black']",6,Creature — Treefolk Shaman (3/4),"Whenever you cast a Treefolk spell, you may have target creature get +3/-3 until end of turn."
+249,Thoughtseize,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145969&type=card,Lorwyn (Rare),['Black'],1,Sorcery,Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
+250,Thoughtweft Trio,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140232&type=card,Lorwyn (Rare),"['2', 'White', 'White']",4,Creature — Kithkin Soldier (5/5),"First strike, vigilance
+Champion a Kithkin (When this enters the battlefield, sacrifice it unless you exile another Kithkin you control. When this leaves the battlefield, that card returns to the battlefield.)
+Thoughtweft Trio can block any number of creatures."
+251,Thousand-Year Elixir,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139505&type=card,Lorwyn (Rare),['3'],3,Artifact,"You may activate abilities of creatures you control as though those creatures had haste.
+, : Untap target creature."
+252,Thundercloud Shaman,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139738&type=card,Lorwyn (Uncommon),"['3', 'Red', 'Red']",5,Creature — Giant Shaman (4/4),"When Thundercloud Shaman enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature."
+253,Tideshaper Mystic,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142362&type=card,Lorwyn (Common),['Blue'],1,Creature — Merfolk Wizard (1/1),: Target land becomes the basic land type of your choice until end of turn. Activate only during your turn.
+254,Timber Protector,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139690&type=card,Lorwyn (Rare),"['4', 'Green']",5,Creature — Treefolk Warrior (4/6),"Other Treefolk creatures you control get +1/+1.
+Other Treefolk and Forests you control have indestructible."
+255,Treefolk Harbinger,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139495&type=card,Lorwyn (Uncommon),['Green'],1,Creature — Treefolk Druid (0/3),"When Treefolk Harbinger enters the battlefield, you may search your library for a Treefolk or Forest card, reveal it, then shuffle and put that card on top."
+256,Triclopean Sight,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146580&type=card,Lorwyn (Common),"['1', 'White']",2,Enchantment — Aura,"Flash
+Enchant creature
+When Triclopean Sight enters the battlefield, untap enchanted creature.
+Enchanted creature gets +1/+1 and has vigilance."
+257,Turtleshell Changeling,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145807&type=card,Lorwyn (Uncommon),"['3', 'Blue']",4,Creature — Shapeshifter (1/4),"Changeling (This card is every creature type.)
+: Switch Turtleshell Changeling's power and toughness until end of turn."
+258,Twinning Glass,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=143375&type=card,Lorwyn (Rare),['4'],4,Artifact,", : You may cast a spell from your hand without paying its mana cost if it has the same name as a spell that was cast this turn."
+259,Veteran of the Depths,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139669&type=card,Lorwyn (Uncommon),"['3', 'White']",4,Creature — Merfolk Soldier (2/2),"Whenever Veteran of the Depths becomes tapped, you may put a +1/+1 counter on it."
+260,Vigor,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140227&type=card,Lorwyn (Rare),"['3', 'Green', 'Green', 'Green']",6,Creature — Elemental Incarnation (6/6),"Trample
+If damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.
+When Vigor is put into a graveyard from anywhere, shuffle it into its owner's library."
+261,Vivid Crag,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141882&type=card,Lorwyn (Uncommon),"['3', 'Green', 'Green', 'Green']",0,Land,"Vivid Crag enters the battlefield tapped with two charge counters on it.
+: Add .
+, Remove a charge counter from Vivid Crag: Add one mana of any color."
+262,Vivid Creek,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141881&type=card,Lorwyn (Uncommon),"['3', 'Green', 'Green', 'Green']",0,Land,"Vivid Creek enters the battlefield tapped with two charge counters on it.
+: Add .
+, Remove a charge counter from Vivid Creek: Add one mana of any color."
+263,Vivid Grove,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141879&type=card,Lorwyn (Uncommon),"['3', 'Green', 'Green', 'Green']",0,Land,"Vivid Grove enters the battlefield tapped with two charge counters on it.
+: Add .
+, Remove a charge counter from Vivid Grove: Add one mana of any color."
+264,Vivid Marsh,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141880&type=card,Lorwyn (Uncommon),"['3', 'Green', 'Green', 'Green']",0,Land,"Vivid Marsh enters the battlefield tapped with two charge counters on it.
+: Add .
+, Remove a charge counter from Vivid Marsh: Add one mana of any color."
+265,Vivid Meadow,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141883&type=card,Lorwyn (Uncommon),"['3', 'Green', 'Green', 'Green']",0,Land,"Vivid Meadow enters the battlefield tapped with two charge counters on it.
+: Add .
+, Remove a charge counter from Vivid Meadow: Add one mana of any color."
+266,Wanderer's Twig,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139510&type=card,Lorwyn (Common),['1'],1,Artifact,", Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+267,Wanderwine Hub,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=153456&type=card,Lorwyn (Rare),['1'],0,Land,"As Wanderwine Hub enters the battlefield, you may reveal a Merfolk card from your hand. If you don't, Wanderwine Hub enters the battlefield tapped.
+: Add or ."
+268,Wanderwine Prophets,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140177&type=card,Lorwyn (Rare),"['4', 'Blue', 'Blue']",6,Creature — Merfolk Wizard (4/4),"Champion a Merfolk (When this enters the battlefield, sacrifice it unless you exile another Merfolk you control. When this leaves the battlefield, that card returns to the battlefield.)
+Whenever Wanderwine Prophets deals combat damage to a player, you may sacrifice a Merfolk. If you do, take an extra turn after this one."
+269,Warren Pilferers,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145967&type=card,Lorwyn (Common),"['4', 'Black']",5,Creature — Goblin Rogue (3/3),"When Warren Pilferers enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn."
+270,Warren-Scourge Elf,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139450&type=card,Lorwyn (Common),"['1', 'Green']",2,Creature — Elf Warrior (1/1),Protection from Goblins
+271,Weed Strangle,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145991&type=card,Lorwyn (Common),"['3', 'Black', 'Black']",5,Sorcery,"Destroy target creature. Clash with an opponent. If you win, you gain life equal to that creature's toughness. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+272,Wellgabber Apothecary,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139400&type=card,Lorwyn (Common),"['4', 'White']",5,Creature — Merfolk Cleric (2/3),: Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.
+273,Whirlpool Whelm,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145975&type=card,Lorwyn (Common),"['1', 'Blue']",2,Instant,"Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)"
+274,Wild Ricochet,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146600&type=card,Lorwyn (Rare),"['2', 'Red', 'Red']",4,Instant,You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.
+275,Windbrisk Heights,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145798&type=card,Lorwyn (Rare),"['2', 'Red', 'Red']",0,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)
+: Add .
+, : You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn."
+276,Wings of Velis Vel,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139678&type=card,Lorwyn (Common),"['1', 'Blue']",2,Tribal Instant — Shapeshifter,"Changeling (This card is every creature type.)
+Until end of turn, target creature has base power and toughness 4/4, gains all creature types, and gains flying."
+277,Wispmare,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145974&type=card,Lorwyn (Common),"['2', 'White']",3,Creature — Elemental (1/3),"Flying
+When Wispmare enters the battlefield, destroy target enchantment.
+Evoke (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+278,Wizened Cenn,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139716&type=card,Lorwyn (Uncommon),"['White', 'White']",2,Creature — Kithkin Cleric (2/2),Other Kithkin creatures you control get +1/+1.
+279,Woodland Changeling,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=145816&type=card,Lorwyn (Common),"['1', 'Green']",2,Creature — Shapeshifter (2/2),Changeling (This card is every creature type.)
+280,Woodland Guidance,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=146594&type=card,Lorwyn (Uncommon),"['3', 'Green']",4,Sorcery,"Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)
+Exile Woodland Guidance."
+281,"Wort, Boggart Auntie",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140226&type=card,Lorwyn (Rare),"['2', 'Black', 'Red']",4,Legendary Creature — Goblin Shaman (3/3),"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+At the beginning of your upkeep, you may return target Goblin card from your graveyard to your hand."
+282,Wren's Run Packmaster,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140194&type=card,Lorwyn (Rare),"['3', 'Green']",4,Creature — Elf Warrior (5/5),"Champion an Elf (When this creature enters the battlefield, sacrifice it unless you exile another Elf you control. When this creature leaves the battlefield, that card returns to the battlefield.)
+: Create a 2/2 green Wolf creature token.
+Wolves you control have deathtouch."
+283,Wren's Run Vanquisher,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=139736&type=card,Lorwyn (Uncommon),"['1', 'Green']",2,Creature — Elf Warrior (3/3),"As an additional cost to cast this spell, reveal an Elf card from your hand or pay .
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+284,"Wydwen, the Biting Gale",https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140229&type=card,Lorwyn (Rare),"['2', 'Blue', 'Black']",4,Legendary Creature — Faerie Wizard (3/3),"Flash
+Flying
+, Pay 1 life: Return Wydwen, the Biting Gale to its owner's hand."
+285,Zephyr Net,https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142357&type=card,Lorwyn (Common),"['1', 'Blue']",2,Enchantment — Aura,"Enchant creature
+Enchanted creature has defender and flying."
