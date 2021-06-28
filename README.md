@@ -7,8 +7,8 @@ which I will then use to create playable decks for personal or commercial use.
 
 ## Content
 
-There are 2 main scripts in this repo. One, the mtg_scraper.py that extracts the info for every card in the MTG database and then continues by extracting the price for
-every card and a second, ------ that downloads the images for every card and stores them on a bucket in AWS. The chromedriver.exe that is used is also in this
+There are 3 main scripts in this repo. One, the mtg_scraper.py that extracts the info for every card in the MTG database and then continues by extracting the price for
+every card, a second, mtg_img_craper.py that downloads the images for every card and stores them on a bucket in AWS and a third, data_cleaning.py that cleans the data. The chromedriver.exe that is used is also in this
 repo and the libraries you will need to run it are:
 * selenium
 * math
@@ -17,7 +17,7 @@ repo and the libraries you will need to run it are:
 
 ## How to use it
 
-It is quite straightforward, you firstly run the mtg_scraper.py to gather all the cards and their prices and then you run the -------- to download and store the images.
+It is quite straightforward, you firstly run the mtg_scraper.py to gather all the cards and their prices, then you run the mtg_img_scraper.py to download and store the images and finally the data_cleaning.py.
 
 ## Improvements
 
