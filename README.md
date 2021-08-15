@@ -7,9 +7,13 @@ which I will then use to create playable decks for personal or commercial use.
 
 ## Content
 
-There are 3 main scripts in this repo. One, the mtg_scraper.py that extracts the info for every card in the MTG database and then continues by extracting the price for
-every card, a second, mtg_img_craper.py that downloads the images for every card and stores them on a bucket in AWS and a third, data_cleaning.py that cleans the data. The chromedriver.exe that is used is also in this
-repo and the libraries you will need to run it are:
+There are 5 scripts in this repo. 
+1. scraper_classes.py contains the classes used to scrape the info of every card.
+2. card_data.py scrapes the info from every card in the sets chosen (all or part).
+3. mtg_prices_scraper_function.py scrapes the prices of every card in the game.
+4. combine_data.py combines info and prices.
+5. data_cleaning.py cleans the data and saves everything in a .csv file
+in the repo there are also the chromedriver.exe that is used to run those files. The libraries needed are:
 * selenium
 * math
 * time
@@ -17,14 +21,22 @@ repo and the libraries you will need to run it are:
 
 ## How to use it
 
-It is quite straightforward, you firstly run the mtg_scraper.py to gather all the cards and their prices, then you run the mtg_img_scraper.py to download and store the images and finally the data_cleaning.py.
+The steps are quite straightforward:
+1. card_data.py
+2. mtg_prices_scraper_function.py
+3. combine_data.py
+4. data_cleaning.py
+
+Once you run card_data.py for all the sets and you get all the cards, then you only need to run 2, 3, 4 regularly (or when needed) to get a recent update on the card values. card_data.py needs to be run again only when Wizards releases a new set of cards.
 
 ## Improvements
 
-There are quite a lot of things I want to add to make it more complete. I plan to extract the collector's number for every card, the flavour text and the artist 
-so that I can have all the info that is on every card. In addition, I want to gather info that is available online on different decks to check the "popularity" 
-of every cardand its correlation with its price. I also want to add a function that, once I download the first database, it will allow the scraper to check 
-only for new sets and not run through all of them again. I also want to "decentralise" the card info extraction and the price extraction so that I can only run 
-an update on the prices.
+There are quite a lot of things I want to add to make it more complete. 
+1. I plan to extract the collector's number for every card, the flavour text and the artist 
+so that I can have all the info that is on every card. (Done) 
+2. I want to gather info that is available online on different decks to check the "popularity" of every card and its correlation with its price. 
+3. I also want to add a function that, once I download the first database, it will allow the scraper to check 
+only for new sets and not run through all of them again. #
+4. I also want to "decentralise" the card info extraction and the price extraction so that I can only run an update on the prices. (Done)
 Ideas, suggestions, feedback are always welcome.
 
