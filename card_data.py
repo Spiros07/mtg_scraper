@@ -6,8 +6,6 @@ from scraper_classes import mtg_card_sets
 from scraper_classes import cards_init_info
 from scraper_classes import cards
 import multiprocessing
-from functools import partial
-
 
 
 options = webdriver.ChromeOptions()
@@ -33,7 +31,7 @@ final_card_sets = mtg_card_sets(mtg_sets)
 
 cards_init_info(final_card_sets)
 cards_urls = cards_init_info(final_card_sets)
-cards_urls[0].to_csv('cards urls_1_2_v3.csv')
+cards_urls[0].to_csv('cards urls_final_test_1_5.csv')
 
 
 
@@ -52,7 +50,7 @@ df_abilities.columns = ['card name', 'mana cost',
                 'abilities-2', 'flavour text-1', 'flavour text-2', 
                 'power/toughness', 'rarity', 'expansion', 'card no', 'artist',
                  'img url']
-df_abilities.to_csv('scraper_final_131_141_final.csv')
+df_abilities.to_csv('scraper_final_test_1_5.csv')
 
 
 driver.quit()
